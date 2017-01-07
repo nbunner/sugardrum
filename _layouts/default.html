@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+	<div id="container">
+		{% include header.html %}
+	
+		<div id="content">			
+			<div id="inner-content" class="container wrap clearfix">
+				<div id="main" class="col-sm-8 col-lg-7 col-lg-offset-1" role="main">
+					{{ content }}
+				</div>	
+				<div class="col-sm-4">
+					<div id="social_networking_links">
+						<a href="http://www.youtube.com/user/sugardrum" title="Sugardrum on Youtube" target="_new" class="social_youtube"><span>You Tube</span></a> 
+						<a href="https://soundcloud.com/sugardrum/" title="Sugardrum on Soundcloud" target="_new" class="social_soundcloud"><span>Soundcloud</span></a> 	
+						<a href="http://www.facebook.com/pages/sugardrum/289395918859" title="Sugardrum on facebook" target="_new" class="social_facebook"><span>Facebook</span></a> 
+						<a href="http://twitter.com/sugardrummusic" title="Sugardrum on twitter" target="_new" class="social_twitter"><span>Twitter</span></a> 						
+						<a href="http://instagram.com/sugardrum" title="Sugardrum on Instagram" target="_new" class="social_instagram"><span>Instagram</span></a> 							
+						<a href="http://www.last.fm/music/Sugardrum" title="Sugardrum on Last.fm" target="_new" class="social_lastfm"><span>Last FM</span></a> 						
+					</div>
+					<div class="soundcloud_player"><iframe width="100%" height="380" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F678398&amp;auto_play=false&amp;show_artwork=true&amp;color=A7CBCF"></iframe></div>
+					<a class="twitter-timeline" href="https://twitter.com/sugardrummusic" data-widget-id="387639340358041600" data-chrome="noborders transparent" data-tweet-limit="3">Tweets by @sugardrummusic</a>
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.async=true;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>	
+		  	</div>
+		</div>
+	
+		{% include footer.html %}
+	</div>
+	<script type="text/javascript" src="/js/min/js_general.js"></script>
+	{% include photoswipe.html %}
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-5056119-8', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+  </body>
+
+</html>
+

@@ -1,0 +1,19 @@
+---
+layout: page
+currentPage: home
+---
+
+<div class="youtube-container">
+{% youtube zCWCrUn9oho %}
+</div>
+
+{% for post in site.posts offset: 0 limit: 5 %}
+<div class="h_post">	
+	{% if post.thumb %}
+	<a href="{{ post.url | prepend: site.baseurl }}" rel="nofollow" title="Permanent Link to {{ post.title }}" class="post_thumbnail"><img src="{{ post.thumb | prepend: site.mediaurl }}" alt="{{ post.title }}" /></a>  
+	{% endif %}  
+	<h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+	<div class="post-meta-top"><div class="date"><span><strong>{{ post.date | date: "%b %-d, %Y" }}</strong></span></div></div>
+	{{ post.excerpt }}
+</div>  
+{% endfor %}

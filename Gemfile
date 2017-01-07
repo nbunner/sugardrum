@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'jekyll-paginate'
+gem 'jekyll'
+gem 'jekyll-redirect-from'
+gem 'pygments.rb'

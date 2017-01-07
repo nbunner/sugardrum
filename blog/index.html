@@ -1,0 +1,51 @@
+---
+layout: default
+title: Sugardrum news
+currentPage: news
+
+---
+
+{% for post in paginator.posts %}
+<div class="h_post">    
+{% if post.thumb %}
+  <a href="{{ post.url | prepend: site.baseurl }}" rel="nofollow" title="Permanent Link to {{ post.title }}" class="post_thumbnail"><img src="{{ post.thumb | prepend: site.mediaurl }}" alt="{{ post.title }}" /></a>  
+{% endif %}    
+<h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+<div class="post-meta-top"><div class="date"><span><strong>{{ post.date | date: "%b %-d, %Y" }}</strong></span></div></div>
+{{ post.excerpt }}
+</div>  
+{% endfor %}
+
+
+
+
+
+  {% if paginator.total_pages > 1 %}
+<ul class="pagination">
+  {% if paginator.previous_page %}
+    <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
+  {% else %}
+    <li><span aria-hidden="true">&laquo; Prev</span></li>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <li class="active"><span>{{ page }}</span></li>
+    {% elsif page == 1 %}
+      <li><a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+    {% else %}
+      <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
+  {% else %}
+    <li><span aria-hidden="true">Next &raquo;</span></li>
+  {% endif %}
+</ul>
+{% endif %}
+
+
+
+
