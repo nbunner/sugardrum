@@ -3,7 +3,7 @@ rvm:
   - 2.2
 install: gem install jekyll && gem install s3_website
 script:
-  - jekyll build
+  - bundle exec jekyll build
 sudo: false
 after_success: travis_retry bundle exec s3_website push --headless
 
