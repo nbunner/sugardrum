@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
-gem 'jekyll-paginate'
 gem 'jekyll'
+gem 'jekyll-paginate'
+gem 's3_website'
+gem 'html-proofer'
 gem 'jekyll-redirect-from'
 gem 'pygments.rb'
