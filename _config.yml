@@ -16,7 +16,7 @@ permalink: "blog/:year/:month/:day/:title/"
 
 # Build settings
 markdown: kramdown
-exclude: [node_modules,Gruntfile.js,package.json,Gemfile,wedding,s3-error-redirects.xml,blog-images]
+exclude: [node_modules,Gruntfile.js,package.json,Gemfile,wedding,s3-error-redirects.xml,blog-images,s3_website]
 baseurl: ""
 url: http://www.sugardrum.com
 

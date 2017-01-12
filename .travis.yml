@@ -12,5 +12,5 @@ script:
   - bundle install
   - JEKYLL_ENV=production bundle exec jekyll build  
   # - htmlproof _site
-after_success: s3_website push
+after_success: bundle exec s3_website push --force
 sudo: false
