@@ -80,27 +80,18 @@ jQuery(document).ready(function($) {
             var id = $(this).attr('id').replace('vid-', '');
             var title = $(this).children("span").html();
             var descrip = $(this).children("em").html();                        
-            var vid = '<iframe src="http://www.youtube.com/embed/' + id + '?autoplay=1" width="280" height="210" frameborder="0" allowfullscreen></iframe><p>' + title + ' &mdash; <em>' + descrip + '</p>';
+            var vid = '<iframe src="http://www.youtube.com/embed/' + id + '?autoplay=1" width="560" height="315" frameborder="0" allowfullscreen></iframe>';            
+            if (typeof title != 'undefined') {
+                var vid = vid + '<p>' + title + ' &mdash; <em>' + descrip + '</p>';
+            }
 
             $('#videoPlayer').html(vid);
-                // $('#videoPlayer').fitVids(); 
             $("html, body").animate({ scrollTop: 110 }, 600);        
 
+    });
 
-            // $.ajax({
-
-
-            // // echo "<iframe src=\"http://www.youtube.com/embed/".$videoUrl."?autoplay=1\" width=\"280\" height=\"210\" frameborder=\"0\" allowfullscreen></iframe>";
-            // // echo "<p>".$title." &mdash; <em>".$descrip."</em></p>";                
-            // type: "GET",
-            // url: "/video-player.php",
-            // data: 'id=' + id + '&title=' + title + '&descrip=' + descrip,
-            // success: function(vid){
-                
-            // }
-
-        // });
-
+    $('.videoPlayButton').click(function(){
+        $('.videoThumbnail').click();
     });
 
     // socialPopup();

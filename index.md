@@ -3,8 +3,10 @@ layout: page
 currentPage: home
 ---
 
-<div class="youtube-container">
-{% youtube zCWCrUn9oho %}
+<p>Postcard (Official Video) by Sugardrum</p>
+<div class="youtube-container home-youtube-container embed-responsive embed-responsive-16by9" id="videoPlayer">
+	<div class="videoThumbnail home-videoplayer" id="vid-4pM6WphmRhQ"><img src="http://img.youtube.com/vi/4pM6WphmRhQ/0.jpg" /></div>
+	<i class="fa fa-play-circle-o videoPlayButton"></i>	
 </div>
 
 {% for post in site.posts offset: 0 limit: 5 %}
