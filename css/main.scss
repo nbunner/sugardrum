@@ -3,30 +3,218 @@
 ---
 @charset "utf-8";
 
+// variables
+$dark-background-color: #324C5C;
+$dark-background-color-trans: rgba(50,76,92,0.8);
+$highlight-color: #51B0BA;
+$image-path: 'http://files.sugardrum.com';
+$pale-border-color: #A4A7AA;
+$font-family-sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-family-serif: 'Lora', 'Georgia', Cambria, "Times New Roman", Times, serif;
+
+@import 
+	"bootstrap",
+	"bootstrap-theme"	
+
+;
+
+body, html {font-family: $font-family-serif;}
+
+
+p {font-size: 1.2em; line-height: 1.6em; margin: 0 0 1.6em;}
+blockquote {background: #fff; border-left: 3px solid #87D1B4; font-family: $font-family-sans-serif; margin: 1.6em 10px 2em 20px; padding: 10px 15px;}
+
+#content {position: relative;}
+// Nav
+.top-nav {
+	background: $dark-background-color; color: #fff; display: none; font-family: $font-family-sans-serif; max-width: 440px; overflow: hidden; position: absolute; right: 0; top: 44px; width: 55%; z-index: 1000;
+	a:link, a:visited {color: #fff;}
+	.nav > li > a:hover, .nav > li > a:focus {background: $highlight-color;}
+	.nav li {padding-left: 15px; padding-right: 15px;}
+	.nav a {border-bottom: 1px solid #fff; display: block;}
+}
+.nav_icon {color: #fff; cursor: pointer; display: block; font-size: 1.6em; position: absolute; right: 15px; top: 5px;}
+
+.top-section {
+	background-repeat: no-repeat; background-size: cover; border-bottom: 4px solid #000; color: #fff; margin-bottom: 30px; min-height: 241px;
+	h1 {background: $dark-background-color-trans; border-radius: 2px; color: #fff; display: inline-block; padding: 8px 15px; margin-top: 175px;}
+}
+.top-section-default {background-image: url(http://files.sugardrum.com/img/sugardrum-autumn-web-sepia-mobile.jpg); background-position: 0 0; margin-bottom: 0;}
+.top-section-music {background-image: url(http://files.sugardrum.com/img/postcards-album-packaging.jpg); background-position: 50% 0;}
+.top-section-news {background-image: url(http://files.sugardrum.com/img/sugardrum-barn-window-guitar-w335.jpg); background-position: 0 0;}
+.top-section-videos {background-image: none; min-height: 0;}
+.top-section-photos {background-image: url(http://files.sugardrum.com/img/sugardrum-barn-playing-bw-w500.jpg); background-position: 0 -9px;}
+.top-section-gigs {background-image: url(http://files.sugardrum.com/img/glastonbury-festival-1-w500.jpg); background-position: 0 0;}
+.top-section-contact {background-image: url(http://files.sugardrum.com/img/sugardrum-walking-with-guitar-woods-back-w500.jpg); background-position: 50% 0;}
+.top-section-reviews {background-image: url(http://files.sugardrum.com/img/postcards-book-and-album-w500.jpg); background-position: 50% 0;}
+.top-section-about {background-image: url(http://files.sugardrum.com/img/glastonbury-festival-3-w500.jpg); background-position: 0 -6px;}
+.top-section-press {background-image: url(http://files.sugardrum.com/img/brighton-beach-w500.jpg); background-position: 0 -6px;}
+
+
+p#logo {
+	background: $dark-background-color; color: #fff; font-size: 28px; margin: 0; padding: 5px 10px;
+	a:link, a:visited {color: #fff;}
+}
+
+.review-quote {
+	font-size: 16px; margin: 1.6em 0 0; 
+	em {display: block;}
+}
+
+.new-album-section {
+	background-image: url(http://files.sugardrum.com/img/postcards-album-packaging.jpg); background-position: 50% 0; background-repeat: no-repeat; background-size: cover;
+	.btn, img {margin: 1em auto;}	
+	h2, p {background: rgba(255,255,255,0.8); padding: 2px 4px;}
+	img {display: block;}
+	.btn {display: inline-block;}
+}
+
+.videos-section {
+	background: #000; color: #fff; overflow: hidden; padding: 0 0 1.6em 0;	
+	p {margin: 4.6em 0 0;}
+}
+.home-youtube-container {
+	cursor: pointer; position: relative;
+	img {max-height: 315px; width: 100%;}
+	i {color: #fff; font-size: 72px; left: 50%; margin: -33px 0 0 -31px; position: absolute; text-shadow: 0 1px 1px darken(#74C5E0, 10%); top: 50%;}
+}
+
+
+.iframe-cont {margin: 15px auto;} // amazon kindle thing
+
+
+footer.main-footer {
+	background: #000 url(http://files.sugardrum.com/img/header-back-500-b.jpg) 50% 0 no-repeat; clear: both; color: #fff; padding-top: 106px; padding-bottom: 1.6em;
+	a:link, a:visited {color: #fff;}
+	.social-links {font-size: 31px; padding: 15px 0; text-align: center;}
+	nav {display: none;}
+	p {margin-top: 1.6em; text-align: center;}
+}
+
+
+@media only screen and (min-width: 481px) {
+
+	.btn {font-size: 1.6em;}
+	.review-quote-cont {margin-top: 2.5em; margin-left: 4%;}
+	.review-quote {font-size: 22px;}
+	.top-section {
+		min-height: 341px;
+		h1 {margin-top: 275px;}
+	}
+	.top-section-default {background-image: url(http://files.sugardrum.com/img/sugardrum-autumn-web-sepia-tablet.jpg);}
+	.top-section-videos {background-image: none; min-height: 0;}
+	.top-section-reviews {background-position: 50% 0;}
+	.top-section-news {background-image: url(http://files.sugardrum.com/img/sugardrum-barn-window-guitar-w500.jpg);}
+	
+	.new-album-section {min-height: 320px;}
+
+	.videos-section {
+		padding: 0;
+		p {margin: 1.6em 0 0;}
+	}
+	.home-youtube-container {
+		img {max-height: none;}
+	}
+	footer.main-footer {
+		background-image: url("http://files.sugardrum.com/img/header-back-1000-b.jpg");
+		.social-links {margin-top: 4em;}
+	}
+
+} // end of media query
+
+
+@media only screen and (min-width: 768px) {
+
+	.text-col {margin: 0 auto; max-width: 680px;}
+	.col-cont {margin: 0 auto; max-width: 980px;}
+	.header {background: $dark-background-color; height: 41px; width: 100%;}
+	p#logo {float: left;}
+	.nav_icon {display: none;}
+	.top-nav {
+		display: block; font-size: 13px; position: relative; max-width: none; top: auto; width: auto;
+		.nav {
+			a {border-bottom: none; line-height: 41px; padding: 0 5px;}
+			li {padding-right: 0; padding-left: 10px;}
+		}
+	}
+	.top-nav .nav {	
+		li.current-menu-item {
+			a {background: #42ACB8;}
+		}  
+	}
+	.top-section {
+		min-height: 441px;
+		h1 {font-size: 4em; margin-top: 345px;}
+	}
+	.top-section-videos {border-bottom: none; min-height: 0;}
+	.top-section-default {background-image: url(http://files.sugardrum.com/img/sugardrum-autumn-web-sepia-tablet.jpg);}
+	.top-section-music {background-image: url(http://files.sugardrum.com/img/postcards-album-packaging-w900.jpg);}
+	.top-section-photos {background-image: url(http://files.sugardrum.com/img/sugardrum-barn-playing-bw-w900.jpg);}
+	.top-section-gigs {background-image: url(http://files.sugardrum.com/img/glastonbury-festival-1-w900.jpg);}
+	.top-section-news {background-image: url(http://files.sugardrum.com/img/sugardrum-barn-window-guitar-w768.jpg);}
+	.top-section-reviews {background-image: url(http://files.sugardrum.com/img/postcards-book-and-album-w900.jpg);}
+	.top-section-about {background-image: url(http://files.sugardrum.com/img/glastonbury-festival-3-w900.jpg);}
+	.top-section-press {background-image: url(http://files.sugardrum.com/img/brighton-beach-w900.jpg);}
+	.top-section-contact {background-image: url(http://files.sugardrum.com/img/sugardrum-walking-with-guitar-woods-back-w900.jpg);}
+
+	.new-album-section {background-image: url(http://files.sugardrum.com/img/postcards-album-packaging-w900.jpg); min-height: 520px;}
+	.review-quote {font-size: 32px;}
+	.entry-content {min-height: 440px;}
+} // end of media query
+
+
+@media only screen and (min-width: 1030px) {
+	.top-nav {font-size: 16px;}
+	// .top-section {min-height: 441px;}
+	// .top-section {min-height: 0;}
+	.top-section-default {background-image: url(http://files.sugardrum.com/img/sugardrum-autumn-web-sepia-desktop.jpg);}
+	.top-section-news {background-image: url(http://files.sugardrum.com/img/sugardrum-barn-window-guitar-w1400.jpg);}
+	.top-section-gigs {background-image: url(http://files.sugardrum.com/img/glastonbury-festival-1-w1400.jpg);}
+	.top-section-about {background-image: url(http://files.sugardrum.com/img/glastonbury-festival-3-w1400.jpg);}
+	.top-section-press {background-image: url(http://files.sugardrum.com/img/brighton-beach-w1400.jpg);}
+	.top-section-contact {background-image: url(http://files.sugardrum.com/img/sugardrum-walking-with-guitar-woods-back-w1400.jpg);}
+	.new-album-section {background-image: url(http://files.sugardrum.com/img/postcards-album-packaging-w1400.jpg);}
+	footer.main-footer {
+		background-image: url("http://files.sugardrum.com/img/header-back-2000-b.jpg");		
+	}
+
+} // end of media query
+
+
+@media only screen and (min-width: 1240px) {
+
+	.new-album-section {min-height: 720px;}
+	footer.main-footer {
+		background-image: url("http://files.sugardrum.com/img/header-back-4000-b.jpg");		
+	}
+} // end of media query
+
+
+// gigs page
 
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+// $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+// $base-font-size:   16px;
+// $base-font-weight: 400;
+// $small-font-size:  $base-font-size * 0.875;
+// $base-line-height: 1.5;
 
-$spacing-unit:     30px;
+// $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+// $text-color:       #111;
+// $background-color: #fdfdfd;
+// $brand-color:      #2a7ae2;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+// $grey-color:       #828282;
+// $grey-color-light: lighten($grey-color, 40%);
+// $grey-color-dark:  darken($grey-color, 25%);
 
-// Width of the content area
-$content-width:    800px;
+// // Width of the content area
+// $content-width:    800px;
 
-$on-palm:          600px;
-$on-laptop:        800px;
+// $on-palm:          600px;
+// $on-laptop:        800px;
 
 
 
@@ -43,11 +231,23 @@ $on-laptop:        800px;
     }
 }
 
+@import 
+	"videos",
+	"photos",
+	"fresco",
+	"gigs",
+	"music",
+	"blog"
 
+;
+
+
+// overides for fresco plugin
+.pswp {display: none;}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+// @import
+//         "base",
+//         "layout",
+//         "syntax-highlighting"
+// ;

@@ -1,0 +1,68 @@
+/**
+ * Videos page
+ */
+body.videos {
+  h3 {text-align: center;}
+}
+.video_thumbnails {
+	background: $dark-background-color; margin: 0 0 30px; overflow: hidden;
+	li {		
+		background-image: url("http://files.sugardrum.com/img/video-sprite-ver5.jpg"); background-repeat: no-repeat; border: 1px solid #fff; border-radius: 2px; cursor: pointer; height: 108px; margin: 15px auto; opacity: 0.8; position: relative; width: 190px;
+		em {display: none;}
+		span {background: #000; bottom: 0; color: #fff; font-size: 0.9em; opacity: 0.8; padding: 3px 5px; position: absolute; right: 0; text-align: right;}
+	}	
+}
+
+.video_player {background: url("http://files.sugardrum.com/img/ajax-loader.gif") 50% 30% no-repeat;}
+
+#vid-ijo0I2xD9gM {background-position: 0 0}
+#vid-_OZa85q0Mzc {background-position: 0 -108px;}
+#vid-UsjcyXCbB7s {background-position: 0 -432px;}
+#vid-8eNT3xWK46w {background-position: 0 -1188px;}
+#vid-XEKHhOxS2Ws {background-position: 0 -648px;}
+#vid-GprkWlbxmlE {background-position: 0 -1512px;}
+#vid-19UezsWbVH8 {background-position: 0 -216px;}
+#vid-DPL4c4KKQwE {background-position: 0 -864px;}
+#vid-oJXy4chqSOE {background-position: 0 -972px;}
+#vid-IWwXmsSFRHk {background-position: 0 -324px;}
+#vid-MJBeEdksmlM {background-position: 0 -1080px}
+#vid-oQ7CON1uTNY {background-position: 0 -540px;}
+#vid-PqM0d8566sw {background-position: 0 -1296px}
+#vid-WJgf9uyDSBY {background-position: 0 -756px;}
+#vid-ZQD5HRoMvSw {background-position: 0 -1404px;}
+#vid-jt9BeiRDwJI {background-position: 0 -1620px;}
+#vid-qJcggXvB6VU {background-position: 0 -1728px;}
+#vid-xvYrd6oRHiw {background-position: 0 -1836px;}
+#vid-_cVoBam5zug {background-position: 0 -1944px;}
+#vid-IBvfo2jOu4E {background-position: 0 -2052px;}
+#vid-n7NcPav3uPU {background-position: 0 -2160px;}
+#vid-zCWCrUn9oho {background-position: 0 -2268px;}
+#vid-FCsHJqj6S6w {background-position: 0 -2376px;}
+#vid-MD0QSwWQTvE {background-position: 0 -2484px;}
+#vid-52NskeeLztg {background-position: 0 -2592px;}
+#vid-z4udmkKQ9fA {background-position: 0 -2600px;}
+#vid-DPxUNrRHNYc {background-position: 0 -2808px;}
+#vid-4pM6WphmRhQ {background-position: 0 -2916px;}
+
+.embed-responsive {
+  position: relative;
+  display: block;
+  height: 0;
+  padding: 0;  
+}
+.embed-responsive .embed-responsive-item,
+.embed-responsive iframe,
+.embed-responsive embed,
+.embed-responsive object,
+.embed-responsive video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  height: 100%;
+  width: 100%;
+  border: 0;
+}
+.embed-responsive-16by9 {
+  padding-bottom: 56.25%;
+}

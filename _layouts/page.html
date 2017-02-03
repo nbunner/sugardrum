@@ -3,9 +3,14 @@ layout: default
 ---
 <article role="article">
 
-  <header class="article-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
+{% if page.topTitle %}
+{% else %}
+	{% if page.title %}
+	  <header class="article-header clearfix">
+	    <div class="col-xs-12"><h1 class="post-title">{{ page.title }}</h1></div>
+	  </header>
+	{% endif %}
+{% endif %}	
 
   <section class="entry-content clearfix" itemprop="articlebody">
     {{ content }}

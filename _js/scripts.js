@@ -94,6 +94,26 @@ jQuery(document).ready(function($) {
         $('.videoThumbnail').click();
     });
 
+
+    $('.homeVideoThumbnail').click(function(){
+
+            var id = $(this).attr('id').replace('vid-', '');
+            var title = $(this).children("span").html();
+            var descrip = $(this).children("em").html();                        
+            var vid = '<iframe src="http://www.youtube.com/embed/' + id + '?autoplay=1" width="560" height="315" frameborder="0" allowfullscreen></iframe>';            
+            if (typeof title != 'undefined') {
+                var vid = vid + '<p>' + title + ' &mdash; <em>' + descrip + '</p>';
+            }
+
+            $('#videoPlayer').html(vid);
+            // $("html, body").animate({ scrollTop: 110 }, 600);        
+
+    });
+
+    $('.homeVideoPlayButton').click(function(){
+        $('.homeVideoThumbnail').click();
+    });
+
     // socialPopup();
 
     // $("#mc_embed_signup").validate();

@@ -3,9 +3,11 @@ layout: page
 title: Photos
 permalink: /photos/
 currentPage: photos
+topTitle: Photos
+topSectionBack: top-section-photos
 ---
-<p>Click on a photo to make it bigger</p>
-<ul class="photos">
+<p class="col-xs-12">Click on a photo to make it bigger</p>
+<ul class="photos list-unstyled col-xs-12">
 <li><a class="group fresco" data-fresco-group="sugardrum_photos" data-fresco-group-options="ui: 'inside'" title="Sugardrum in the Autumn" href="http://files.sugardrum.com/images/photos/sugardrum-autumn.jpg" rel="group"><img src="http://files.sugardrum.com/images/photos/thumbnails/sugardrum-autumn.jpg" alt="Sugardrum in the Autumn" width="120" height="120" /></a></li>
 <li><a class="group fresco" data-fresco-group="sugardrum_photos" data-fresco-group-options="ui: 'inside'" title="Sugardrum in a barn with sunlight" href="http://files.sugardrum.com/images/photos/sugardrum-barn-playing-bw.jpg" rel="group"><img src="http://files.sugardrum.com/images/photos/thumbnails/sugardrum-barn-playing-bw.jpg" alt="Sugardrum in a barn with sunlight" width="120" height="120" /></a></li>
 <li><a class="group fresco" data-fresco-group="sugardrum_photos" data-fresco-group-options="ui: 'inside'" title="Sugardrum in a barn through window" href="http://files.sugardrum.com/images/photos/sugardrum-barn-window-guitar.jpg" rel="group"><img src="http://files.sugardrum.com/images/photos/thumbnails/sugardrum-barn-window-guitar.jpg" alt="Sugardrum in a barn through window" width="120" height="120" /></a></li>
@@ -26,8 +28,8 @@ currentPage: photos
 <li><a class="group fresco" data-fresco-group="sugardrum_photos" title="At sunset" href="http://files.sugardrum.com/images/photos/IMG_0110.jpg" rel="group"><img src="http://files.sugardrum.com/images/photos/thumbnails/IMG_0110.jpg" alt="At sunset" width="120" height="120" /></a></li>
 <li><a class="group fresco" data-fresco-group="sugardrum_photos" title="At sunset" href="http://files.sugardrum.com/images/photos/IMG_7684.jpg" rel="group"><img src="http://files.sugardrum.com/images/photos/thumbnails/IMG_7684.jpg" alt="At sunset" width="120" height="120" /></a></li>
 </ul>
-<p>Some photos from the recording sessions for the new album, “Postcards”</p>
-<ul class="photos">
+<p class="col-xs-12">Some photos from the recording sessions for the new album, “Postcards”</p>
+<ul class="photos list-unstyled col-xs-12">
 <li><a class="group fresco" data-fresco-group="sugardrum_photos" title="Recording guitar" href="http://files.sugardrum.com/images/photos/IMG_7161.jpg" rel="group"><img src="http://files.sugardrum.com/images/photos/thumbnails/IMG_7161.jpg" alt="Recording guitar" width="120" height="120" /></a></li>
 <li><a class="group fresco" data-fresco-group="sugardrum_photos" title="Beth on cello" href="http://files.sugardrum.com/images/photos/IMG_7342.jpg" rel="group"><img src="http://files.sugardrum.com/images/photos/thumbnails/IMG_7342.jpg" alt="Beth on Cello" width="120" height="120" /></a></li>
 <li><a class="group fresco" data-fresco-group="sugardrum_photos" title="Rhodesy" href="http://files.sugardrum.com/images/photos/IMG_7384.jpg" rel="group"><img src="http://files.sugardrum.com/images/photos/thumbnails/IMG_7384.jpg" alt="Rhodesy" width="120" height="120" /></a></li>

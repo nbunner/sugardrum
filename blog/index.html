@@ -2,26 +2,23 @@
 layout: default
 title: Sugardrum news
 currentPage: news
-
+topSectionBack: top-section-news
+topSectionText: news-title.html  
 ---
 
+
 {% for post in paginator.posts %}
-<div class="h_post">    
-{% if post.thumb %}
-  <a href="{{ post.url | prepend: site.baseurl }}" rel="nofollow" title="Permanent Link to {{ post.title }}" class="post_thumbnail"><img src="{{ post.thumb | prepend: site.mediaurl }}" alt="{{ post.title }}" /></a>  
-{% endif %}    
-<h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-<div class="post-meta-top"><div class="date"><span><strong>{{ post.date | date: "%b %-d, %Y" }}</strong></span></div></div>
-{{ post.excerpt }}
-</div>  
+<article class="col-xs-12 post"> 
+  <header>    
+    <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>    
+    <date>{{ post.date | date: "%b %-d, %Y" }}</date>
+  </header>
+  <div class="text-col"><p>{{ post.excerpt }}</p></div>
+</article> 
 {% endfor %}
 
-
-
-
-
   {% if paginator.total_pages > 1 %}
-<ul class="pagination">
+<ul class="pagination col-xs-12">
   {% if paginator.previous_page %}
     <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
   {% else %}
