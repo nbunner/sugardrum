@@ -1,3 +1,6 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
 <html>
 
@@ -36,6 +39,16 @@
 		{% endif %}
 		{% include footer.html %}
 	
+	<!-- Start scripts -->
+	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+	<script src="https://use.fontawesome.com/e586678d0f.js"></script> 
+	<script>
+	  WebFont.load({
+	    google: {
+	      families: ['Lora:400','Open+Sans:400italic,700italic,700,400']
+	    }
+	  });
+	</script>
 	<script type="text/javascript" src="/js/min/js_general.js"></script>
 	{% include photoswipe.html %}
 	<script>
@@ -48,6 +61,7 @@
 	  ga('send', 'pageview');
 
 	</script>
+	<!-- End scripts -->
   </body>
 
 </html>

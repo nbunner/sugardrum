@@ -71,7 +71,7 @@ topSectionBack: top-section-music
 	<iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=3635105239/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://shop.sugardrum.com/album/an-absence-of-friends">An Absence of Friends by Sugardrum</a></iframe>
 	<a title="An Absence of Friends by Sugardrum on Bandcamp" href="http://shop.sugardrum.com/album/an-absence-of-friends" class="ep-cover-link"><img src="http://files.sugardrum.com/img/record-covers/absence-of-friends.jpg" alt="An Absence of Friends by Sugardrum on from Bandcamp" /></a>
 	<div class="text-links">
-		<a title="An Absence of Friends by Sugardrum from Bandcamp" href="http://shop.sugardrum.com/album/an-absence-of-friends"><span>Bandcamp</span></a>
+		<a title="An Absence of Friends by Sugardrum from Bandcamp" href="http://shop.sugardrum.com/album/an-absence-of-friends"><i class="fa fa-bandcamp"></i></a>
 	</div>
 </div>
 
