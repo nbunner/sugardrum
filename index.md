@@ -4,16 +4,18 @@ currentPage: home
 topSectionBack: top-section-default
 topSectionText: review-quotes.html	
 fullWidth: full-width
+topSectionBack: top-section-home
 ---
 
 <section class="new-album-section">
 	<div class="col-cont">
-		<div class="col-xs-12">
+		<div class="col-xs-12 col-sm-8 album-text">			
 			<h2>New album postcards</h2>
 			<p>Free download or buy the limited edition CD including paperback book of original short stories.</p>
+			<div class="text-center clearfix"><a href="/listen/" class="btn btn-info">Find out more</a></div>
 		</div>
 		<!-- <a href="/listen/"><img src="http://files.sugardrum.com/img/record-covers/postcards.jpg" alt="Postcards by Sugardrum" /></a> -->
-		<div class="text-center clearfix"><a href="/listen/" class="btn btn-info">Find out more</a></div>		
+		<div class="section-photo"></div>		
 	</div>
 </section>
 
@@ -28,9 +30,9 @@ fullWidth: full-width
 </section>
 
 <div class="col-cont">
-	<h2 class="h1 col-xs-12">Latest news</h2>
+	<h2 class="h1 col-xs-12 col-sm-10 col-sm-offset-1">Latest news</h2>
 	{% for post in site.posts offset: 0 limit: 5 %}
-	<article class="col-xs-12 post">	
+	<article class="col-xs-12 col-sm-10 col-sm-offset-1 post">	
 		<header>			
 			<h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>		
 			<date>{{ post.date | date: "%b %-d, %Y" }}</date>
@@ -38,5 +40,5 @@ fullWidth: full-width
 		<p class="text-col">{{ post.excerpt }}</p>
 	</article>  
 	{% endfor %}
-	<p class="col-xs-12"><a href="/blog/">More news&hellip;</a></p>
+	<p class="col-xs-12 col-sm-10 col-sm-offset-1"><a href="/blog/">More news&hellip;</a></p>
 </div>
