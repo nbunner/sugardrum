@@ -7,7 +7,7 @@ topTitle: Gigs
 topSectionBack: top-section-gigs
 ---
 
-<article class="col-xs-12">
+<article class="col-xs-12 text-section">
 	<div class="text-col">
 		<p>No gigs booked at present.</p>
 

@@ -29,7 +29,7 @@ topSectionBack: top-section-home
 	</div>
 </section>
 
-<div class="col-cont">
+<div class="col-cont text-section">
 	<h2 class="h1 col-xs-12 col-sm-10 col-sm-offset-1">Latest news</h2>
 	{% for post in site.posts offset: 0 limit: 5 %}
 	<article class="col-xs-12 col-sm-10 col-sm-offset-1 post">	

@@ -7,7 +7,7 @@ topTitle: About
 topSectionBack: top-section-about
 
 ---
-<div class="col-xs-12">
+<div class="col-xs-12 text-section">
 	<div class="text-col">
 		<p>Sugardrum is a solo project of singer and multi-instrumentalist Nigel Bunner, who writes and performs acoustic storytelling songs lying on the boundary between folk and indie. He has so far self-released 5 EPs and 1 album,  receiving airplay on both <strong>BBC 6music</strong> and <strong>BBC South</strong>.</p>
 

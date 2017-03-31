@@ -11,9 +11,9 @@ layout: compress
 	<div>	
 		{% include header.html %}
 	
-		<div id="content">	
+		<div id="content" class="content">	
 			
-	<section class="top-section{% if page.topSectionBack %} {{ page.topSectionBack }}{% else %} top-section-default{% endif %}">	
+	<section class="top-section{% if page.topSectionBack %} {{ page.topSectionBack }}{% else %} top-section-default{% endif %} clearfix">	
 		<div class="section-photo"></div>	
 		{% if page.topTitle %}
 		<div class="col-cont"><div class="col-xs-12"><h1>{{ page.topTitle }}</h1></div></div>
@@ -46,7 +46,7 @@ layout: compress
 	<script>
 	  WebFont.load({
 	    google: {
-	      families: ['Lora:400']
+	      families: ['Lora','Merriweather Sans']
 	    }
 	  });
 	</script>

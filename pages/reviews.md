@@ -7,7 +7,7 @@ topTitle: Reviews
 topSectionBack: top-section-reviews
 ---
 
-<div class="col-xs-12">
+<div class="col-xs-12 text-section">
 	<div class="text-col">
 		<p>Below are some press and fan reviews of Sugardrum recordings and performances.</p>
 

@@ -6,7 +6,7 @@ currentPage: press
 topTitle: Press
 topSectionBack: top-section-press
 ---
-<div class="col-xs-12">
+<div class="col-xs-12 text-section">
 	<div class="text-col">	
 		<h2>Photos &amp; Press release download</h2>
 		<p>A zip archive containing eight hi-res images and a press release are available to download from the link below:</p>

@@ -6,7 +6,7 @@ currentPage: music
 topTitle: Music
 topSectionBack: top-section-music
 ---
-<div class="col-xs-12">
+<div class="col-xs-12 text-section">
 	<div class="text-col">
 		<p>All the Sugardrum releases are availble to buy/download from the Sugardrum page on <a href="http://shop.sugardrum.com/">Bandcamp <i class="fa fa-bandcamp"></i></a> in both electronic and CD format. Many of the songs are also available via iTunes <i class="fa fa-apple"></i>, Spotify <i class="fa fa-spotify"></i> etc.</p>
 

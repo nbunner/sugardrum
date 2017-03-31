@@ -10,8 +10,10 @@ $dark-background-color-trans-90: rgba(50,76,92,0.9);
 $highlight-color: #51B0BA;
 $image-path: 'http://files.sugardrum.com';
 $pale-border-color: #A4A7AA;
-$font-family-sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$font-family-serif: 'Lora', 'Georgia', Cambria, "Times New Roman", Times, serif;
+$font-family-sans-serif: 'Merriweather Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-family-serif: 'Lora', 'Georgia', Cambria, 'Times New Roman', Times, serif;
+$color-text-grey: #818689;
+$color-text-dark: #272727;
 
 @import 
 	"bootstrap",
@@ -22,7 +24,7 @@ $font-family-serif: 'Lora', 'Georgia', Cambria, "Times New Roman", Times, serif;
 body, html {font-family: $font-family-serif;}
 
 
-p {font-size: 1.2em; line-height: 1.6em; margin: 0 0 1.6em;}
+p {font-family: $font-family-sans-serif; font-size: 1.2em; line-height: 1.6em; margin: 0 0 1.6em;}
 blockquote {background: #fff; border-left: 3px solid #87D1B4; font-family: $font-family-sans-serif; margin: 1.6em 10px 2em 20px; padding: 10px 15px;}
 
 #content {position: relative;}
@@ -131,9 +133,11 @@ footer.main-footer {
 
 @media only screen and (min-width: 768px) {
 
+	#content {background: $dark-background-color; color: #fff;}
 	.text-col {margin: 0 auto; max-width: 680px;}
 	.col-cont {margin: 0 auto; max-width: 980px; overflow: hidden;}
 	.videos-section {
+		background: $dark-background-color;
 		.col-cont {max-width: 640px}
 	}
 	.header {background: $dark-background-color; height: 41px; width: 100%;}
@@ -157,8 +161,8 @@ footer.main-footer {
 	}
 	.top-section-videos {border-bottom: none; min-height: 0;}
 	.top-section-home {
-		background-color: #E3D6CD; background-image: none; color: #333; margin: 1px auto; max-width: 1000px; overflow: hidden;
-		.section-photo {background: url(http://files.sugardrum.com/img/sugardrum-autumn-web-sepia-tablet.jpg) 50% 0 no-repeat; background-size: cover; border-radius: 4px; float: left; height: 441px; width: 400px;}
+		background-image: none; color: #fff; margin: 1px auto; max-width: 1000px; overflow: hidden; padding-top: 30px;
+		.section-photo {background: url(http://files.sugardrum.com/img/sugardrum-autumn-web-sepia-tablet.jpg) 50% 0 no-repeat; background-size: cover; border-radius: 50%; float: left; height: 441px; width: 400px;}
 	}
 	.top-section-music {background-image: url(http://files.sugardrum.com/img/postcards-album-packaging-w900.jpg);}
 	.top-section-photos {background-image: url(http://files.sugardrum.com/img/sugardrum-barn-playing-bw-w900.jpg);}
@@ -170,7 +174,7 @@ footer.main-footer {
 	.top-section-contact {background-image: url(http://files.sugardrum.com/img/sugardrum-walking-with-guitar-woods-back-w900.jpg);}
 
 	.new-album-section {
-		background-image: none; background-color: #D49138; min-height: 435px; position: relative;
+		background-image: none; color: $color-text-dark; min-height: 435px; position: relative;
 		.section-photo {background: url(http://files.sugardrum.com/img/postcards-album-packaging.jpg) 0 0; height: 375px; right: 0; position: absolute; top: 30px; width: 500px; z-index: 50;}
 		.album-text {margin-top: 45px; text-align: center; z-index: 100;}
 		h2, p {border-radius: 0; display: block;}
@@ -179,8 +183,16 @@ footer.main-footer {
 		.btn {font-size: 2em;}
 	}
 	.review-quote-cont {margin-top: 0;}
-	.review-quote {color: #5F4838; font-size: 32px;}
+	.review-quote {color: #fff; font-size: 28px;}
 	.entry-content {min-height: 440px;}
+	.text-section {
+		background: #fff; color: $color-text-grey; padding-top: 30px;
+		h1, h2 {color: $color-text-dark;}
+	}
+	.page-navigation {
+		a:link, a:visited, a:hover, a:active {color: #fff;}
+		a:hover {text-decoration: underline;}
+	}
 } // end of media query
 
 
