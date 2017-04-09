@@ -8,7 +8,7 @@ topSectionText: news-title.html
 
 <div class="text-section clearfix">
 {% for post in paginator.posts %}
-<article class="col-xs-12 post"> 
+<article class="col-xs-12 col-sm-offset-1 col-sm-10 post"> 
   <header>    
     <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>    
     <date>{{ post.date | date: "%b %-d, %Y" }}</date>
