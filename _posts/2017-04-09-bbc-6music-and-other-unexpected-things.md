@@ -2,7 +2,7 @@
 layout: post
 title: BBC 6music and other unexpected things
 date: 2017-04-09 09:38:02.000000000 +00:00
-thumb: blog/wp-content/uploads/2015/12/15203132/deers-in-the-snow.jpg
+thumb: blog/wp-content/uploads/2013/06/17212156/sixmusic_badge.jpg
 type: post
 published: true
 status: publish
