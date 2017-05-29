@@ -9,7 +9,7 @@ topSectionBack: top-section-home
 
 <section class="new-album-section">
 	<div class="col-cont">
-		<div class="col-xs-12 col-sm-8 album-text">			
+		<div class="col-xs-12 col-sm-6 col-md-6 album-text">			
 			<h2>New album postcards</h2>
 			<p>Free download or buy the limited edition CD including paperback book of original short stories.</p>
 			<div class="text-center clearfix"><a href="/listen/" class="btn btn-info">Find out more</a></div>
@@ -23,7 +23,7 @@ topSectionBack: top-section-home
 	<div class="col-cont">
 		<div class="youtube-container home-youtube-container embed-responsive embed-responsive-16by9 embed-responsive-item" id="videoPlayer">
 			<div class="homeVideoThumbnail home-videoplayer" id="vid-4pM6WphmRhQ"><img src="http://img.youtube.com/vi/4pM6WphmRhQ/0.jpg" /></div>
-			<i class="fa fa-play-circle-o homeVideoPlayButton"></i>	
+			<i class="fa fa-youtube-play homeVideoPlayButton"></i>	
 		</div>
 		<p class="col-xs-12">Postcard (Official Video) by Sugardrum</p>
 	</div>

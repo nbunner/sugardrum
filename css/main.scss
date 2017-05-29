@@ -22,10 +22,12 @@ $color-text-dark: #272727;
 ;
 
 body, html {font-family: $font-family-serif;}
-
+.col-all-full-width {padding-left: 0; padding-right: 0;}
 
 p {font-family: $font-family-sans-serif; font-size: 1.2em; line-height: 1.6em; margin: 0 0 1.6em;}
 blockquote {background: #fff; border-left: 3px solid #87D1B4; font-family: $font-family-sans-serif; margin: 1.6em 10px 2em 20px; padding: 10px 15px;}
+
+.btn {font-family: $font-family-sans-serif;}
 
 #content {position: relative;}
 // Nav
@@ -39,20 +41,20 @@ blockquote {background: #fff; border-left: 3px solid #87D1B4; font-family: $font
 .nav_icon {color: #fff; cursor: pointer; display: block; font-size: 1.6em; position: absolute; right: 15px; top: 5px;}
 
 .top-section {
-	background-repeat: no-repeat; background-size: cover; color: #fff; margin-bottom: 30px; min-height: 241px;
+	background-repeat: no-repeat; background-size: cover; border-bottom: 2px solid #fff; color: #fff; min-height: 241px;
 	h1 {background: $dark-background-color-trans; border-radius: 2px; color: #fff; display: inline-block; padding: 8px 15px; margin-top: 175px;}
 }
 .top-section-default {display: none;}
-.top-section-home {background-image: url(http://files.sugardrum.com/img/sugardrum-autumn-web-sepia-mobile.jpg); background-position: 0 0; border-bottom: 4px solid #000; margin-bottom: 0;}
-.top-section-music {background-image: url(http://files.sugardrum.com/img/postcards-album-packaging.jpg); background-position: 50% 0;}
+.top-section-home {background-image: url(http://files.sugardrum.com/img/sugardrum-autumn-web-sepia-mobile.jpg); background-position: 0 0; margin-bottom: 0;}
+.top-section-music {background-image: url(http://files.sugardrum.com/img/header-banners/sugardrum-barn-reflection-w1500.jpg); background-position: 50% 50%;}
 .top-section-news {background-image: url(http://files.sugardrum.com/img/sugardrum-barn-window-guitar-w335.jpg); background-position: 0 0;}
 .top-section-videos {background-image: none; min-height: 0;}
 .top-section-photos {background-image: url(http://files.sugardrum.com/img/sugardrum-barn-playing-bw-w500.jpg); background-position: 0 0;}
-.top-section-gigs {background-image: url(http://files.sugardrum.com/img/glastonbury-festival-1-w500.jpg); background-position: 0 0;}
-.top-section-contact {background-image: url(http://files.sugardrum.com/img/sugardrum-walking-with-guitar-woods-back-w500.jpg); background-position: 50% 0;}
-.top-section-reviews {background-image: url(http://files.sugardrum.com/img/postcards-book-and-album-w500.jpg); background-position: 50% 0;}
-.top-section-about {background-image: url(http://files.sugardrum.com/img/glastonbury-festival-3-w500.jpg); background-position: 0 0;}
-.top-section-press {background-image: url(http://files.sugardrum.com/img/brighton-beach-w500.jpg); background-position: 0 -6px;}
+.top-section-gigs {background-image: url(http://files.sugardrum.com/img/header-banners/sugardrum-glasto-colour-w500.jpg); background-position: 0 0;}
+.top-section-contact {background-image: url(http://files.sugardrum.com/img/header-banners/sugardrum-walking-back-2-w500.jpg); background-position: 50% 0;}
+.top-section-reviews {background-image: url(http://files.sugardrum.com/img/header-banners/sugardrum-woods-2-w500.jpg); background-position: 50% 0;}
+.top-section-about {background-image: url(http://files.sugardrum.com/img/header-banners/sugardrum-glasto-2-colour-w500.jpg); background-position: 0 0;}
+.top-section-press {background-image: url(http://files.sugardrum.com/img/header-banners/sugardrum-guitar-barn-2-w500.jpg);}
 
 
 p#logo {
@@ -68,7 +70,7 @@ p#logo {
 .new-album-section {
 	background-image: url(http://files.sugardrum.com/img/postcards-album-packaging.jpg); background-position: 50% 0; background-repeat: no-repeat; background-size: cover; overflow: hidden;
 	.btn, img {margin: 1em auto;}	
-	.album-text {background: rgba(255,255,255,0.8); border-radius: 4px; display: inline-block; padding: 8px 15px;}
+	.album-text {background-color: rgba(255,255,255,0.6); border-radius: 4px; display: inline-block; padding: 8px 15px;} //background: rgba(255,255,255,0.8); 
 	// h2, p {background: rgba(255,255,255,0.8); border-radius: 4px; display: inline-block; padding: 8px 15px;}
 	img {display: block;}
 	.btn {display: inline-block;}
@@ -81,7 +83,7 @@ p#logo {
 .home-youtube-container {
 	cursor: pointer; position: relative;
 	img {max-height: 315px; width: 100%;}
-	i {color: #fff; font-size: 72px; left: 50%; margin: -33px 0 0 -31px; position: absolute; text-shadow: 0 1px 1px darken(#74C5E0, 10%); top: 50%;}
+	i {color: #fff; font-size: 72px; left: 50%; margin: -33px 0 0 -31px; position: absolute; text-shadow: 0 0 8px rgba(0, 0, 0, .5); top: 50%;}
 }
 
 
@@ -137,7 +139,7 @@ footer.main-footer {
 	.text-col {margin: 0 auto; max-width: 680px;}
 	.col-cont {margin: 0 auto; max-width: 980px; overflow: hidden;}
 	.videos-section {
-		background: $dark-background-color;
+		background: #000; margin: 30px auto;
 		.col-cont {max-width: 640px}
 	}
 	.header {background: $dark-background-color; height: 41px; width: 100%;}
@@ -156,27 +158,27 @@ footer.main-footer {
 		}  
 	}
 	.top-section {
-		border-bottom: none; margin: 1px auto 33px;
+		margin: 1px auto 0;
 		h1 {font-size: 3em; margin-top: 345px;}
 	}
 	.top-section-videos {border-bottom: none; min-height: 0;}
 	.top-section-home {
-		background-image: none; color: #fff; margin: 1px auto; max-width: 1000px; overflow: hidden; padding-top: 30px;
-		.section-photo {background: url(http://files.sugardrum.com/img/sugardrum-autumn-web-sepia-tablet.jpg) 50% 0 no-repeat; background-size: cover; border-radius: 50%; float: left; height: 441px; width: 400px;}
+		background-image: none; border-bottom: none; color: #fff; margin: 1px auto; max-width: 1000px; overflow: hidden; padding-top: 30px;
+		.section-photo {background: url(http://files.sugardrum.com/img/sugardrum-autumn-web-sepia-tablet.jpg) 50% 0 no-repeat; background-size: cover; border: 2px solid #fff; border-radius: 50%; float: left; height: 380px; width: 380px;}
 	}
-	.top-section-music {background-image: url(http://files.sugardrum.com/img/postcards-album-packaging-w900.jpg);}
+	.top-section-music {background-image: url(http://files.sugardrum.com/img/header-banners/sugardrum-barn-reflection-w900.jpg); background-position: 50% 50%;}
 	.top-section-photos {background-image: url(http://files.sugardrum.com/img/sugardrum-barn-playing-bw-w900.jpg);}
-	.top-section-gigs {background-image: url(http://files.sugardrum.com/img/glastonbury-festival-1-w900.jpg);}
+	.top-section-gigs {background-image: url(http://files.sugardrum.com/img/header-banners/sugardrum-glasto-colour-w900.jpg);}
 	.top-section-news {background-image: url(http://files.sugardrum.com/img/sugardrum-barn-window-guitar-w768.jpg);}
-	.top-section-reviews {background-image: url(http://files.sugardrum.com/img/postcards-book-and-album-w900.jpg);}
-	.top-section-about {background-image: url(http://files.sugardrum.com/img/glastonbury-festival-3-w900.jpg);}
-	.top-section-press {background-image: url(http://files.sugardrum.com/img/brighton-beach-w900.jpg);}
-	.top-section-contact {background-image: url(http://files.sugardrum.com/img/sugardrum-walking-with-guitar-woods-back-w900.jpg);}
+	.top-section-reviews {background-image: url(http://files.sugardrum.com/img/header-banners/sugardrum-woods-2-w900.jpg);}
+	.top-section-about {background-image: url(http://files.sugardrum.com/img/header-banners/sugardrum-glasto-2-colour-w900.jpg);}
+	.top-section-press {background-image: url(http://files.sugardrum.com/img/header-banners/sugardrum-guitar-barn-2-w900.jpg);}
+	.top-section-contact {background-image: url(http://files.sugardrum.com/img/header-banners/sugardrum-walking-back-2-w900.jpg);}
 
 	.new-album-section {
-		background-image: none; color: $color-text-dark; min-height: 435px; position: relative;
-		.section-photo {background: url(http://files.sugardrum.com/img/postcards-album-packaging.jpg) 0 0; height: 375px; right: 0; position: absolute; top: 30px; width: 500px; z-index: 50;}
-		.album-text {margin-top: 45px; text-align: center; z-index: 100;}
+		background-image: none; clear: left; color: #fff; 
+		.section-photo {background: url(http://files.sugardrum.com/img/postcards-album-packaging.jpg) 0 0; border: 2px solid #fff; border-radius: 50%; float: right; height: 380px; width: 380px; z-index: 50;}
+		.album-text {background: none; margin-top: 45px; text-align: center;}
 		h2, p {border-radius: 0; display: block;}
 		h2 {margin: 1.6em 0 0;}
 		p {font-style: 1.5em; margin: 0; padding: 15px 15px 0 15px}
@@ -203,15 +205,17 @@ footer.main-footer {
 	.top-section-home {
 		.section-photo {background-image: url(http://files.sugardrum.com/img/sugardrum-autumn-web-sepia-desktop.jpg);}
 	}
-	.top-section-news {background-image: url(http://files.sugardrum.com/img/sugardrum-barn-window-guitar-w1400.jpg);}
-	.top-section-gigs {background-image: url(http://files.sugardrum.com/img/glastonbury-festival-1-w1400.jpg);}
-	.top-section-about {background-image: url(http://files.sugardrum.com/img/glastonbury-festival-3-w1400.jpg);}
-	.top-section-press {background-image: url(http://files.sugardrum.com/img/brighton-beach-w1400.jpg);}
-	.top-section-contact {background-image: url(http://files.sugardrum.com/img/sugardrum-walking-with-guitar-woods-back-w1400.jpg);}
+	.top-section-news {background-image: url(http://files.sugardrum.com/img/header-banners/sugardrum-barn-window-guitar-w1500.jpg);}
+	.top-section-music {background-image: url(http://files.sugardrum.com/img/header-banners/sugardrum-barn-reflection-w1500.jpg); background-position: 50% 50%;}
+	.top-section-gigs {background-image: url(http://files.sugardrum.com/img/header-banners/sugardrum-glasto-colour-w1500.jpg);}
+	.top-section-about {background-image: url(http://files.sugardrum.com/img/header-banners/sugardrum-glasto-2-colour-w1500.jpg);}
+	.top-section-press {background-image: url(http://files.sugardrum.com/img/header-banners/sugardrum-guitar-barn-2-w1500.jpg);}
+	.top-section-reviews {background-image: url(http://files.sugardrum.com/img/header-banners/sugardrum-woods-2-w1500.jpg);}
+	.top-section-contact {background-image: url(http://files.sugardrum.com/img/header-banners/sugardrum-walking-back-2-w1500.jpg);}
 	.new-album-section {
 		// background-image: url(http://files.sugardrum.com/img/postcards-album-packaging-w1400.jpg);
 		// .btn {margin-top: 5em;}
-		.section-photo {right: 10%;}
+		.section-photo {height: 440px; width: 440px;}
 	}
 	footer.main-footer {
 		background-image: url("http://files.sugardrum.com/img/header-back-2000-b.jpg");		
@@ -229,6 +233,9 @@ footer.main-footer {
 	}
 } // end of media query
 
+@media only screen and (min-width: 1400px) {
+	.top-section {border: 2px solid #fff; border-bottom-left-radius: 8px; border-bottom-right-radius: 8px; border-top: none;}
+}
 
 // gigs page
 
