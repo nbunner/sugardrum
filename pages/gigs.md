@@ -9,12 +9,14 @@ topSectionBack: top-section-gigs
 
 <article class="col-xs-12 text-section">
 	<div class="text-col">
-		<p>No gigs booked at present.</p>
+		<h3 class="gig_title">17th-20th Aug 2017</h3>
+		<p class="gig_details"><strong>Tribal Earth Festival, East Sussex</strong> - details to follow. <a href="http://www.tribalearth.co.uk">www.tribalearth.co.uk</a></p>
 
 		<div class="col-sm-4 gigphoto gigphoto-1"></div><div class="col-sm-4 gigphoto gigphoto-2"></div><div
 		class="col-sm-4 gigphoto gigphoto-3"></div>
 
-		<h2 class="past_gigs_heading">Some Recent Gigs...</h2><p>Past festivals and tours have included the 2015 &amp; 2014 Edinburgh Fringe Festival, The Greenfields at Glastonbury Festival 2014, Secret Garden Party, Small World Festival, Wildheart Gathering, Tribal Earth Festival, Bimble Inn Bandala Festival, the Big Green Gathering, various indoor venues across London, Brighton and the West Country and numerous collaborative fundraising events put together with the Wupadupa collective (Martha Tilston, Carrie Tree, Weston Green).</p><p>In November 2013 Sugardrum did a mini tour of the four corners of London to promote the release of the <a href="/listen/">3 Penny Postcard EP</a> and a new tour is being planned for later in 2016 to promote the new album <a href="/listen/">Postcards</a>.</p>
+		<h2 class="past_gigs_heading">Some Recent Gigs...</h2>		
+		<p>Past festivals and tours have included the 2015 &amp; 2014 Edinburgh Fringe Festival, The Greenfields at Glastonbury Festival 2014, Secret Garden Party, Small World Festival, Wildheart Gathering, Tribal Earth Festival, Bimble Inn Bandala Festival, the Big Green Gathering, various indoor venues across London, Brighton and the West Country and numerous collaborative fundraising events put together with the Wupadupa collective (Martha Tilston, Carrie Tree, Weston Green).</p><p>In November 2013 Sugardrum did a mini tour of the four corners of London to promote the release of the <a href="/listen/">3 Penny Postcard EP</a> and a new tour is being planned for later in 2016 to promote the new album <a href="/listen/">Postcards</a>.</p>
 
 		<p>Here are some recent gigs&hellip;</p>
 
