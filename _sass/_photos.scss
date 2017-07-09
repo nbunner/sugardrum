@@ -3,6 +3,7 @@
  */
 
  ul.photos {
- 	margin-bottom: 2.5em;
+ 	margin-bottom: 2.5em; float: left;
  	li {float: left; margin: 10px;}
  }
+ ul.photos, ul.photos li {list-style-type: none;}
