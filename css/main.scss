@@ -28,6 +28,8 @@ p {font-family: $font-family-sans-serif; font-size: 1.2em; line-height: 1.6em; m
 blockquote {background: #fff; border-left: 3px solid #87D1B4; font-family: $font-family-sans-serif; margin: 1.6em 10px 2em 20px; padding: 10px 15px;}
 
 .btn {font-family: $font-family-sans-serif;}
+.btn-action {background: #0095F9; color: #fff; border: 1px solid darken(#0095F9, 10%); font-size: 21px; min-width: 200px;}
+.btn-action:hover {background: lighten(#0095F9, 5%); color: #fff;}
 
 #content {position: relative;}
 // Nav
@@ -181,8 +183,7 @@ footer.main-footer {
 		.album-text {background: none; margin-top: 45px; text-align: center;}
 		h2, p {border-radius: 0; display: block;}
 		h2 {margin: 1.6em 0 0;}
-		p {font-style: 1.5em; margin: 0; padding: 15px 15px 0 15px}
-		.btn {font-size: 2em;}
+		p {font-style: 1.5em; margin: 0; padding: 15px 15px 0 15px}		
 	}
 	.review-quote-cont {margin-top: 0;}
 	.review-quote {color: #fff; font-size: 28px;}
