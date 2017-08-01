@@ -141,7 +141,7 @@ footer.main-footer {
 	.text-col {margin: 0 auto; max-width: 680px;}
 	.col-cont {margin: 0 auto; max-width: 980px; overflow: hidden;}
 	.videos-section {
-		background: #000; margin: 30px auto;
+		background: #000; margin: 30px auto 0; max-width: 980px;
 		.col-cont {max-width: 640px}
 	}
 	.header {background: $dark-background-color; height: 41px; width: 100%;}
