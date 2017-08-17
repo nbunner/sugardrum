@@ -9,6 +9,7 @@ topSectionBack: top-section-gigs
 
 <article class="col-xs-12 text-section">
 	<div class="text-col">
+		<p>I'm not doing many gigs at the moment due to being far too busy being a Dad :)</p>
 		<h3 class="gig_title">Sat 19th Aug 2017</h3>
 		<p class="gig_details"><strong>Tribal Earth Festival, Laughton Lodge, Common Lane, Laughton, Sussex, BN8 6BY</strong> - Playing on the Full Circle Stage at 2pm. <a href="http://www.tribalearth.co.uk">www.tribalearth.co.uk</a></p>
 
