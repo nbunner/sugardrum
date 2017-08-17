@@ -9,8 +9,8 @@ topSectionBack: top-section-gigs
 
 <article class="col-xs-12 text-section">
 	<div class="text-col">
-		<h3 class="gig_title">17th-20th Aug 2017</h3>
-		<p class="gig_details"><strong>Tribal Earth Festival, East Sussex</strong> - details to follow. <a href="http://www.tribalearth.co.uk">www.tribalearth.co.uk</a></p>
+		<h3 class="gig_title">Sat 19th Aug 2017</h3>
+		<p class="gig_details"><strong>Tribal Earth Festival, Laughton Lodge, Common Lane, Laughton, Sussex, BN8 6BY</strong> - Playing on the Full Circle Stage at 2pm. <a href="http://www.tribalearth.co.uk">www.tribalearth.co.uk</a></p>
 
 		<div class="col-sm-4 gigphoto gigphoto-1"></div><div class="col-sm-4 gigphoto gigphoto-2"></div><div
 		class="col-sm-4 gigphoto gigphoto-3"></div>
