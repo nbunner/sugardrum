@@ -10,9 +10,7 @@ topSectionBack: top-section-gigs
 <article class="col-xs-12 text-section">
 	<div class="text-col">
 		<p>I'm not doing many gigs at the moment due to being far too busy being a Dad :)</p>
-		<h3 class="gig_title">Sat 19th Aug 2017</h3>
-		<p class="gig_details"><strong>Tribal Earth Festival, Laughton Lodge, Common Lane, Laughton, Sussex, BN8 6BY</strong> - Playing on the Full Circle Stage at 2pm. <a href="http://www.tribalearth.co.uk">www.tribalearth.co.uk</a></p>
-
+		
 		<div class="col-sm-4 gigphoto gigphoto-1"></div><div class="col-sm-4 gigphoto gigphoto-2"></div><div
 		class="col-sm-4 gigphoto gigphoto-3"></div>
 
@@ -20,6 +18,9 @@ topSectionBack: top-section-gigs
 		<p>Past festivals and tours have included the 2015 &amp; 2014 Edinburgh Fringe Festival, The Greenfields at Glastonbury Festival 2014, Secret Garden Party, Small World Festival, Wildheart Gathering, Tribal Earth Festival, Bimble Inn Bandala Festival, the Big Green Gathering, various indoor venues across London, Brighton and the West Country and numerous collaborative fundraising events put together with the Wupadupa collective (Martha Tilston, Carrie Tree, Weston Green).</p><p>In November 2013 Sugardrum did a mini tour of the four corners of London to promote the release of the <a href="/listen/">3 Penny Postcard EP</a> and a new tour is being planned for later in 2016 to promote the new album <a href="/listen/">Postcards</a>.</p>
 
 		<p>Here are some recent gigs&hellip;</p>
+
+		<h3 class="gig_title">Sat 19th Aug 2017</h3>
+		<p class="gig_details"><strong>Tribal Earth Festival, Laughton Lodge, Common Lane, Laughton, Sussex, BN8 6BY</strong> - Playing on the Full Circle Stage at 2pm. <a href="http://www.tribalearth.co.uk">www.tribalearth.co.uk</a></p>
 
 		<h3 class="gig_title">Sun 20th Nov 2016</h3>
 		<p class="gig_details"><strong>Southill Park Arts Centre, Ringmead, Bracknell, Berkshire, RG12 7PA</strong> - 3pm, supporting Jon Fletcher. &pound;5.00 in advance or &pound;7.00 on the door. <a href="http://www.southhillpark.org.uk/whats-on/shows-events/">www.southhillpark.org.uk/whats-on/shows-events/</a></p>

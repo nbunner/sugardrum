@@ -2,7 +2,7 @@
  * Music page
  */
 .ep_cont {
-	background: $dark-background-color; color: #fff; margin: 2.5em auto; padding-top: 1.6em;
+	background: $bgcolor-epcont; margin: 2.5em auto; padding-top: 1.6em;
 	.ep-cover-link {
 		display: block; margin: 0 auto; width: 280px;
 		img {width: 280px;}
@@ -10,12 +10,18 @@
 	.text-links {
 		font-size: 1.6em; margin: 8px 12px; text-align: center;
 		a {display: inline-block; margin-right: 8px;}
-		a:link, a:visited {color: #fff;}
+		// a:link, a:visited {color: #fff;}
 	}
 
 }
 
 @media only screen and (min-width: 768px) {
 
-	.ep_cont {border: 1px solid #fff; margin-bottom: 1px;}
+	.ep_cont {
+		float: none; max-width: 500px; overflow: hidden;
+		.ep-cover-link {float: left; margin: 0;}
+		.text-links {float: left; margin: 0; padding: 8px 12px; text-align: left; width: 190px;}
+	}
+	
+	
 }

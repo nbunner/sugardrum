@@ -4,20 +4,9 @@ currentPage: home
 topSectionBack: top-section-default
 topSectionText: review-quotes.html	
 fullWidth: full-width
-topSectionBack: top-section-home
+topSectionBack: top-section-default
+bannerImage: banner-bw-barn-guitar-w2000.jpg
 ---
-
-<section class="new-album-section">
-	<div class="col-cont">
-		<div class="col-xs-12 col-sm-6 col-md-6 album-text">			
-			<h2>New album postcards</h2>
-			<p>Free download or buy the CD with the book of short stories.</p>
-			<div class="text-center clearfix"><a href="/listen/" class="btn btn-action">Find out more</a></div>
-		</div>
-		<!-- <a href="/listen/"><img src="http://files.sugardrum.com/img/record-covers/postcards.jpg" alt="Postcards by Sugardrum" /></a> -->
-		<div class="section-photo"></div>		
-	</div>
-</section>
 
 <section class="videos-section">
 	<div class="col-cont">

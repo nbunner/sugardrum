@@ -16,7 +16,7 @@ topSectionBack: top-section-music
 	</div>	
 </div>
 
-<div class="col-xs-12 col-sm-6 ep_cont">
+<div class="col-xs-12 ep_cont">
 	<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1566325814/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=none/transparent=true/" seamless><a href="http://shop.sugardrum.com/album/postcards">Postcards by Sugardrum</a></iframe>
 	<a href="https://sugardrum.bandcamp.com/album/postcards" class="ep-cover-link"><img src="http://files.sugardrum.com/img/record-covers/postcards.jpg" alt="Postcards by Sugardrum" /></a>
 	<div class="text-links">
@@ -27,7 +27,7 @@ topSectionBack: top-section-music
 	</div>
 </div>
 
-<div class="col-xs-12 col-sm-6 ep_cont">
+<div class="col-xs-12 ep_cont">
 	<iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=2075203143/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://shop.sugardrum.com/album/3-penny-postcard">3 Penny Postcard by Sugardrum</a></iframe>
 	<a href="http://shop.sugardrum.com/album/3-penny-postcard" title="3 Penny Postcard by Sugardrum on Bandcamp" class="ep-cover-link"><img src="http://files.sugardrum.com/img/record-covers/three-penny-postcard.jpg" alt="3 Penny Postcard by Sugardrum on Bandcamp" /></a>
 	<div class="text-links">
@@ -38,7 +38,7 @@ topSectionBack: top-section-music
 	</div>
 </div>
 
-<div class="col-xs-12 col-sm-6 ep_cont">
+<div class="col-xs-12 ep_cont">
 	<iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=1042687132/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://shop.sugardrum.com/album/forgotten-remixed">Forgotten remixed by Sugardrum</a></iframe>	
 	<a href="http://shop.sugardrum.com/album/forgotten-remixed" title="Forgotten remixed by Sugardrum on Bandcamp" class="ep-cover-link"><img src="http://files.sugardrum.com/img/record-covers/forgotten-remixed.jpg" alt="Forgotten remixed by Sugardrum on Bandcamp" /></a>
 	<div class="text-links">	
@@ -49,7 +49,7 @@ topSectionBack: top-section-music
 </div>										    	
 
 
-<div class="col-xs-12 col-sm-6 ep_cont">
+<div class="col-xs-12 ep_cont">
 	<iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=2139359527/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://shop.sugardrum.com/album/where-once-were-roads">Where Once Were Roads by Sugardrum</a></iframe>
 	<a title="Download Where Once Were Roads by Sugardrum on Bandcamp" href="http://shop.sugardrum.com/album/where-once-were-roads" class="ep-cover-link"><img src="http://files.sugardrum.com/img/record-covers/where-once-were-roads.jpg" alt="Download Where Once Were Roads by Sugardrum on Bandcamp" /></a>
 	<div class="text-links">
@@ -59,7 +59,7 @@ topSectionBack: top-section-music
 	</div>
 </div>
 
-<div class="col-xs-12 col-sm-6 ep_cont">
+<div class="col-xs-12 ep_cont">
 	<iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=2099495344/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://shop.sugardrum.com/album/1-of-1">1 of 1 by Sugardrum</a></iframe>
 	<a title="1 of 1 by Sugardrum on Bandcamp" href="http://shop.sugardrum.com/album/1-of-1" class="ep-cover-link"><img src="http://files.sugardrum.com/img/record-covers/1-of-1.jpg" alt="1 of 1 by Sugardrum on Bandcamp" /></a>
 	<div class="text-links">
@@ -67,7 +67,7 @@ topSectionBack: top-section-music
 	</div>
 </div>
 
-<div class="col-xs-12 col-sm-6 ep_cont">
+<div class="col-xs-12 ep_cont">
 	<iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=3635105239/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://shop.sugardrum.com/album/an-absence-of-friends">An Absence of Friends by Sugardrum</a></iframe>
 	<a title="An Absence of Friends by Sugardrum on Bandcamp" href="http://shop.sugardrum.com/album/an-absence-of-friends" class="ep-cover-link"><img src="http://files.sugardrum.com/img/record-covers/absence-of-friends.jpg" alt="An Absence of Friends by Sugardrum on from Bandcamp" /></a>
 	<div class="text-links">
@@ -75,7 +75,7 @@ topSectionBack: top-section-music
 	</div>
 </div>
 
-<div class="col-xs-12 col-sm-6 ep_cont">
+<div class="col-xs-12 ep_cont">
 	<iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=105776390/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://shop.sugardrum.com/album/merry-christmas">Merry Christmas by Sugardrum</a></iframe>
 	<a title="Merry Christmas by Sugardrum on Bandcamp" href="http://shop.sugardrum.com/album/merry-christmas" class="ep-cover-link"><img src="http://files.sugardrum.com/img/record-covers/merry-christmas.jpg" alt="Merry Christmas gig by Sugardrum on Bandcamp" /></a>
 	<div class="text-links">
@@ -83,7 +83,7 @@ topSectionBack: top-section-music
 	</div>
 </div>
 
-<div class="col-xs-12 col-sm-6 ep_cont">
+<div class="col-xs-12 ep_cont">
 	<iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=1509902188/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://shop.sugardrum.com/album/sugardrum-live-house-gig-recorded-20-11-2010">Sugardrum - live house gig recorded 20/11/2010 by Sugardrum</a></iframe>
 	<a title="Live House gig by Sugardrum on Bandcamp" href="http://shop.sugardrum.com/album/sugardrum-live-house-gig-recorded-20-11-2010" class="ep-cover-link"><img src="http://files.sugardrum.com/img/record-covers/live-house-gig.jpg" alt="Live House gig by Sugardrum on Bandcamp" /></a>
 	<div class="text-links">
