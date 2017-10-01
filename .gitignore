@@ -1,4 +1,3 @@
-/_site
-/external
-/mp3s
-/node_modules
+_site
+mp3s
+node_modules
