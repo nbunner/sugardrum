@@ -23,11 +23,7 @@ module.exports = function(grunt) {
             '_js/photoswipe/photoswipe.css',
             '_js/photoswipe/default-skin/default-skin.css'
             ]
-
-        // 'httpdocs/css/min/css_general_2.min.css' : [
-        //     'httpdocs/css/less/style.less',
-        //     'httpdocs/css/less/forms.less',
-        //     'httpdocs/css/less/commerce.less'],
+          
 
                             
 
@@ -67,31 +63,7 @@ module.exports = function(grunt) {
         watch: {
             jschange: {
                 files: [jsfiles['js/min/js_general.js']
-                    // .concat(jsfiles['httpdocs/js/min/js_general_1.js'],
-                    //     jsfiles['httpdocs/js/min/js_general_2.js'],
-                    //     jsfiles['httpdocs/js/min/js_general_3.js'],
-                    //     jsfiles['httpdocs/js/min/js_mobile_general.js'],
-                    //     jsfiles['httpdocs/js/min/js_mobile_jquery.js'],
-                    //     jsfiles['httpdocs/js/min/js_mobile_accommodationtemplate.js'],
-                    //     jsfiles['httpdocs/js/min/js_mobilesearchtemplate.js'],
-                    //     jsfiles['httpdocs/js/min/js_mobilehometemplate.js'],
-                    //     jsfiles['httpdocs/js/min/js_mobile_location.js'],
-                    //     jsfiles['httpdocs/js/min/js_accommodationtemplate.js'],
-                    //     jsfiles['httpdocs/js/min/js_submitreviewtemplate.js'],
-                    //     jsfiles['httpdocs/js/min/js_resorttemplate.js'],                        
-                    //     jsfiles['httpdocs/js/min/js_beachtemplate.js'],                        
-                    //     jsfiles['httpdocs/js/min/js_hotellandertemplate.js'],                        
-                    //     jsfiles['httpdocs/js/min/js_maptemplate.js'],                        
-                    //     jsfiles['httpdocs/js/min/js_locationtemplate.js'],                        
-                    //     jsfiles['httpdocs/js/min/js_cruiseline.js'],                        
-                    //     jsfiles['httpdocs/js/min/js_hometemplate.js'],                        
-                    //     jsfiles['httpdocs/js/min/js_addphotostemplate.js'],                        
-                    //     jsfiles['httpdocs/js/min/js_adminviewreviewtemplate.js'],                        
-                    //     jsfiles['httpdocs/js/min/js_searchtemplate.js'],                        
-                    //     jsfiles['httpdocs/js/min/js_popundertemplate.js'],                        
-                    //     jsfiles['httpdocs/js/min/js_submitmanagementresponsetemplate.js'],                        
-                    //     jsfiles['httpdocs/js/min/js_affiliatewidgettemplate.js']                        
-                    //     )
+                   
                     ],                
                 tasks: ['clean:cleanjs','uglify'],
                 options: {
@@ -100,16 +72,7 @@ module.exports = function(grunt) {
             },
             csschange: {
                 files: [cssfiles['css/min/style.min.css']
-                    // .concat(cssfiles['httpdocs/css/min/css_general_2.min.css'],
-                    //     cssfiles['httpdocs/css/min/css_general_3.min.css'],
-                    //     cssfiles['httpdocs/css/min/css_mobile_general.min.css'],
-                    //     cssfiles['httpdocs/css/min/css_mobile_general_2.min.css'],
-                    //     cssfiles['httpdocs/css/min/css_submitreviewtemplate.min.css'],
-                    //     cssfiles['httpdocs/css/min/css_searchtemplate.min.css'],
-                    //     cssfiles['httpdocs/css/min/css_affiliatewidgettemplate_holidayweather.min.css'],
-                    //     cssfiles['httpdocs/css/min/css_affiliatewidgettemplate_virtualtourist.min.css'],
-                    //     cssfiles['httpdocs/css/min/css_affiliatewidgettemplate_worldweatheronline.min.css']
-                    // )
+                   
                 ],                
                 tasks: ['clean:cleancss','less'],
                 options: {
