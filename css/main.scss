@@ -28,6 +28,7 @@ a:link, a:visited {color: #2978A0;}
 a:hover {color: lighten(#2978A0, 5%);}
 
 body, html {font-family: $font-family-serif;}
+body {background: #dce5e3;}
 .col-all-full-width {padding-left: 0; padding-right: 0;}
 
 p {font-family: $font-family-sans-serif; font-size: 1.2em; line-height: 1.6em; margin: 0 0 1.6em;}
@@ -46,6 +47,7 @@ a.btn-common:link, a.btn-common:visited {color: #fff;}
 }
 
 #content {position: relative;}
+.entry-content {background: $bgcolor-content;}
 // Nav
 .top-nav {
 	background: $bgcolor-topnav; color: #fff; display: none; font-family: $font-family-sans-serif; max-width: 440px; overflow: hidden; position: absolute; right: 0; top: 44px; width: 55%; z-index: 1000;
@@ -152,9 +154,9 @@ footer.main-footer {
 
 @media only screen and (min-width: 768px) {
 
-	#content {background: $bgcolor-content; color: #253031;}
-	.text-col {margin: 0 auto; max-width: 680px;}
-	.col-cont {margin: 0 auto; max-width: 980px; overflow: hidden;}
+	#content {color: #253031;}
+	.text-col {margin: 0 auto; max-width: 840px;}
+	.col-cont {margin: 0 auto; max-width: 1040px; overflow: hidden;}
 	.videos-section {
 		margin: 30px auto 0; max-width: 980px;
 		// .col-cont {max-width: 640px}
