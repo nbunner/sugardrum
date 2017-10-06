@@ -19,15 +19,15 @@ bannerImage: banner-bw-barn-guitar-w2000.jpg
 </section>
 
 <div class="col-cont text-section">
-	<h2 class="h1 col-xs-12 col-sm-10 col-sm-offset-1">Latest news</h2>
+	<h2 class="h1 col-xs-12">Latest news</h2>
 	{% for post in site.posts offset: 0 limit: 5 %}
-	<article class="col-xs-12 col-sm-10 col-sm-offset-1 post">	
+	<article class="col-xs-12 post post--snippet">	
 		<header>			
 			<h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>		
 			<date>{{ post.date | date: "%b %-d, %Y" }}</date>
 		</header>
-		<p class="text-col">{{ post.excerpt }}</p>
+		<div class="text-col"><p>{{ post.excerpt }}</p></div>
 	</article>  
 	{% endfor %}
-	<p class="col-xs-12 col-sm-10 col-sm-offset-1"><a href="/blog/">More news&hellip;</a></p>
+	<p class="col-xs-12"><a href="/blog/">More news&hellip;</a></p>
 </div>

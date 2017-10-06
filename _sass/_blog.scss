@@ -8,6 +8,8 @@ article.post {
 	date {color: #999999; display: block; margin: 0.8em 0;}
 }
 
+.col-cont > article.post:first-child {margin-top: 0;}
+
 .page-navigation {
   clear: both; float: left; 
   font-size: 14px;
@@ -45,4 +47,12 @@ article.post {
   //   h2 {font-size: 4em;}
   // }
 
+}
+
+@media only screen and (min-width: 1024px) {
+    .post {
+        header {float: left; margin-left: 5%; padding-right: 30px; width: 30%;}        
+        h1 {margin-top: 0;}
+    }
+    .post--snippet .text-col, .post-content {float: left; width: 45%;}
 }
