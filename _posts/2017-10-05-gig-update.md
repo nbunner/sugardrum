@@ -1,4 +1,4 @@
-—
+---
 layout: post
 title: Gig update
 date: 2017-10-05 22:08:02.000000000 +00:00
@@ -6,7 +6,8 @@ type: post
 published: true
 status: publish
 excerpt: I have some new live videos I’ll be adding to the site soon. One is of my song Postcard, the others are from some recent gigs. I don’t have any new gigs booked in the diary though, for reasons explained below.
-—
+---
+
 I have some new live videos I’ll be adding to the site soon. One is of my song Postcard, the others are from some recent gigs. I don’t have any new gigs booked in the diary though, for reasons explained below... 
 
 When you’re an independent, unsigned musician you find yourself having to do a multitude of different jobs. I currently do all the promotional work for Sugardrum including creating and updating the website, making videos, writing blog posts like this one and booking gigs. 
