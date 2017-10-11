@@ -12,7 +12,7 @@ topSectionBack: top-section-music
 
 		<p>The new album, <strong>Postcards</strong> is available to buy in a <a href="https://sugardrum.bandcamp.com/album/postcards">limited edition CD format</a> from the Sugardrum shop. It includes a lyrics booklet and a book of short stories, each one about a song from the album. You can also buy it from <a href="https://itunes.apple.com/gb/album/postcards/id1081336392">iTunes <i class="fa fa-apple"></i></a>, <a href="https://www.amazon.co.uk/gp/product/B01CGMKBJ4">Amazon mp3 <i class="fa fa-amazon"></i></a> and various other online stores from that date and also stream from Spotify <i class="fa fa-spotify"></i> etc.</p>
 
-		<p>Click on an album/EP cover to go to the page on Bandcamp <i class="fa fa-bandcamp"></i>.</p>		
+		<p>Click on an album / EP cover to go to the page on Bandcamp <i class="fa fa-bandcamp"></i>.</p>		
 	</div>	
 </div>
 
