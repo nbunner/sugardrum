@@ -1,3 +1,7 @@
 _site
-mp3s
-node_modules
+
+
+
+mp3s/
+
+node_modules/
