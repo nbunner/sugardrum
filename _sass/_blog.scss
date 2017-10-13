@@ -3,26 +3,33 @@
  */
 .post_thumbnail {display: none;}
 article.post {
-	border-bottom: 1px solid #cecece; margin-top: 1.6em; margin-bottom: 1.6em; padding-bottom: 1.6em;
+	border-bottom: 1px solid #cecece; margin-top: 1.6em; padding-bottom: 1.6em;
 	h2 {margin-top: 0;}
 	date {color: #999999; display: block; margin: 0.8em 0;}
 }
+article.post--snippet {margin-bottom: 1.6em;}
 
 .col-cont > article.post:first-child {margin-top: 0;}
 
 .page-navigation {
-  clear: both; float: left; 
+  background: $dark-background-color; clear: both; float: left;
+  font-family: $font-family-sans-serif; 
   font-size: 14px;
   display: block;
-  width: 100%;  
+  width: 100%; 
+  a:link, a:visited {background: $dark-background-color; color: #fff; text-decoration: none;} 
+  a:hover {background: lighten($dark-background-color, 5%);}
 }
 
-.page-navigation a {
-  display: block;
-  width: 50%;
+.page-navigation a {  
+  display: block;  
   float: left;
-  margin: 1em 0;
+  min-height: 64px;
+  padding: 12px 15px;
+  width: 50%;
 }
+
+
 
 .page-navigation .next {
   text-align: right;

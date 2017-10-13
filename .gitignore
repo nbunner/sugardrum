@@ -5,3 +5,5 @@ _site
 mp3s/
 
 node_modules/
+
+\.sass-cache/
