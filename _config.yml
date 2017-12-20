@@ -15,6 +15,7 @@ paginate_path: "/blog/page:num"
 permalink: "blog/:year/:month/:day/:title/"
 
 # Build settings
+exclude: [vendor]
 markdown: kramdown
 exclude: [node_modules,Gruntfile.js,package.json,Gemfile,wedding,s3-error-redirects.xml,blog-images,s3_website]
 baseurl: ""
