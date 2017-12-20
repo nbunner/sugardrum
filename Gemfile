@@ -1,4 +1,5 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
+ruby RUBY_VERSION
 gem "jekyll", "3.6.2"
 gem 'jekyll-paginate'
 gem 's3_website'
