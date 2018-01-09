@@ -12,13 +12,13 @@ article.post--snippet {margin-bottom: 1.6em;}
 .col-cont > article.post:first-child {margin-top: 0;}
 
 .page-navigation {
-  background: $dark-background-color; clear: both; float: left;
+  clear: both; float: left;
   font-family: $font-family-sans-serif; 
   font-size: 14px;
   display: block;
   width: 100%; 
-  a:link, a:visited {background: $dark-background-color; color: #fff; text-decoration: none;} 
-  a:hover {background: lighten($dark-background-color, 5%);}
+  a:link, a:visited {text-decoration: none;} 
+  a:hover {background: darken(#fff, 5%);}
 }
 
 .page-navigation a {  
