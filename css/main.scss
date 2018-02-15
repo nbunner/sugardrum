@@ -99,7 +99,7 @@ p#logo {
 	p {margin: 4.6em 0 0;}
 }
 .home-youtube-container {
-	cursor: pointer; position: relative;
+	clear: both; cursor: pointer; position: relative;
 	img {max-height: 315px; width: 100%;}
 	i {color: #fff; font-size: 72px; left: 50%; margin: -33px 0 0 -31px; position: absolute; text-shadow: 0 0 8px rgba(0, 0, 0, .5); top: 50%;}
 }
