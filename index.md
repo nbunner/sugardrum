@@ -10,11 +10,12 @@ bannerImage: banner-bw-barn-guitar-w2000.jpg
 
 <section class="videos-section">
 	<div class="col-cont">
+		<h2 class="h1 col-xs-12">Featured video</h2>
 		<div class="youtube-container home-youtube-container embed-responsive embed-responsive-16by9 embed-responsive-item" id="videoPlayer">
-			<div class="homeVideoThumbnail home-videoplayer" id="vid-4pM6WphmRhQ"><img src="http://img.youtube.com/vi/4pM6WphmRhQ/0.jpg" /></div>
+			<div class="homeVideoThumbnail home-videoplayer" id="vid-jt9BeiRDwJI"><img src="http://img.youtube.com/vi/jt9BeiRDwJI/0.jpg" /></div>
 			<i class="fa fa-youtube-play homeVideoPlayButton"></i>	
 		</div>
-		<p class="col-xs-12">Postcard (Official Video) by Sugardrum</p>
+		<p class="col-xs-12">The Smiths - There is a light that never goes out - Acoustic Cover by Sugardrum</p>
 	</div>
 </section>
 
