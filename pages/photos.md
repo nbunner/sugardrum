@@ -16,10 +16,10 @@ topSectionBack: top-section-photos
         data-fresco-group="sugardrum_photos" 
         data-fresco-group-options="ui: 'inside'" 
         title="{{ photo.caption }}" 
-        href="http://files.sugardrum.com/images/photos/{{ photo.url }}" 
+        href="//files.sugardrum.com/images/photos/{{ photo.url }}" 
         rel="group">
             <img 
-                src="http://files.sugardrum.com/images/photos/thumbnails/{{ photo.url }}" 
+                src="//files.sugardrum.com/images/photos/thumbnails/{{ photo.url }}" 
                 alt="{{ photo.caption }}" 
                 width="120" 
                 height="120" />
@@ -41,10 +41,10 @@ topSectionBack: top-section-photos
         data-fresco-group="sugardrum_photos" 
         data-fresco-group-options="ui: 'inside'" 
         title="{{ photo.caption }}" 
-        href="http://files.sugardrum.com/images/photos/{{ photo.url }}" 
+        href="//files.sugardrum.com/images/photos/{{ photo.url }}" 
         rel="group">
             <img 
-                src="http://files.sugardrum.com/images/photos/thumbnails/{{ photo.url }}" 
+                src="//files.sugardrum.com/images/photos/thumbnails/{{ photo.url }}" 
                 alt="{{ photo.caption }}" 
                 width="120" 
                 height="120" />
