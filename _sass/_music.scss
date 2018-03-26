@@ -1,8 +1,10 @@
 /**
  * Music page
  */
+.ep-title {clear: both; margin: 1.4em 0 0.7em; padding: 0 12px; text-align: center; width: 100%;}
 .ep_cont {
-	background: $bgcolor-epcont; margin: 2.5em auto; padding-top: 1.6em;
+	background: $bgcolor-epcont; clear: both; display: flex; flex-direction: column; margin: 2.5em auto; // padding-top: 1.6em; width: 300px;
+	.embed-cont {margin: 0 auto; width: 300px;}
 	.ep-cover-link {
 		display: block; margin: 0 auto; width: 280px;
 		img {width: 280px;}
@@ -14,16 +16,58 @@
 	}
 
 }
+.ep_cont--bandcamp {width: 300px;}
+.ep_cont--musicpage {border-bottom: 1px solid $pale-border-color; margin-bottom: 0; padding-bottom: 50px;}
+
+.music-link-cont {border-top: 1px solid $pale-border-color; border-left: 1px solid $pale-border-color; border-right: 1px solid $pale-border-color; display: table; font-family: $font-family-sans-serif; margin: 0 auto; width: 280px;}
+
+.music-link {
+	background: #fff; display: table-row; font-size: 16px; padding: 3px 6px;
+	& > span {border-bottom: 1px solid $pale-border-color; display: table-cell; padding: 5px;}
+	& > span:last-child {text-align: right;}
+	// span:first-child {font-size: 24px;}
+	.btn--play {background: #fff; border: 1px solid $color-link; display: inline-block; font-size: 14px; margin: 0 auto;}
+	
+}
+.music-link--spotify {color: #2bb447;}
+
+
+.music-logo {}
+.music-logo--spotify {}
+
+.music-link:link, .music-link:visited {
+	color: $color-text-dark;	
+	.btn--play {color: $color-link;}
+}
+.music-link:hover {
+	text-decoration: none;
+	.btn--play {background: $color-link; color: #fff;}
+}
 
 .music-player--blogpost {margin-bottom: 15px;}
+
+@media only screen and (min-width: 600px) {
+
+	.ep_cont {
+		clear: both; display: block; margin: 0 auto; overflow: hidden; width: 580px;
+		.embed-cont {float: left; width: 300px;}
+		.ep-cover-link {float: left;}
+	}
+	.ep_cont--musicpage {margin-bottom: 30px;}
+
+}
 
 @media only screen and (min-width: 768px) {
 
 	.ep_cont {
-		float: none; max-width: 500px; overflow: hidden;
-		.ep-cover-link {float: left; margin: 0;}
-		.text-links {float: left; margin: 0; padding: 8px 12px; text-align: left; width: 190px;}
+		display: flex; flex-direction: row; max-width: 893px; width: 100%;
+		.ep-cover-link {float: none;}
+		// .ep-cover-link {float: left;}
+		// float: none; max-width: 640px; overflow: hidden;
+		// .ep-cover-link {float: left; margin: 0;}
+		// .text-links {float: left; margin: 0; padding: 8px 12px; text-align: left; width: 190px;}
 	}
-	
+	.ep_cont--bandcamp {width: 650px;}
+	.music-link-cont {margin: 0;}
 	
 }
