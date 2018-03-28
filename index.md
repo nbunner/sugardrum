@@ -70,7 +70,7 @@ bannerImage: banner-bw-barn-guitar-w2000.jpg
 			<div class="homeVideoThumbnail home-videoplayer" id="vid-jt9BeiRDwJI"><img src="//img.youtube.com/vi/jt9BeiRDwJI/0.jpg" /></div>
 			<i class="fa fa-youtube-play homeVideoPlayButton"></i>	
 		</div>
-		<p class="col-xs-12">The Smiths - There is a light that never goes out - Acoustic Cover by Sugardrum</p>
+		<p class="col-xs-12">The Smiths - There is a light that never goes out - Acoustic Cover by Sugardrum.</p>
 	</div>
 </section>
 
