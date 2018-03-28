@@ -10,7 +10,7 @@ topSectionBack: top-section-press
 	<div class="text-col">	
 		<h2>Photos &amp; Press release download</h2>
 		<p>A zip archive containing eight hi-res images and a press release are available to download from the link below:</p>
-		<p><a href="http://files.sugardrum.com/images/external/presskit/sugardrum-press-kit-and-photos.zip" title="Sugardrum Press Photos and Press Release"><i class="fa fa-download"></i> Sugardrum high-res photos and press release (107 MB)</a></p>
+		<p><a href="//files.sugardrum.com/images/external/presskit/sugardrum-press-kit-and-photos.zip" title="Sugardrum Press Photos and Press Release"><i class="fa fa-download"></i> Sugardrum high-res photos and press release (107 MB)</a></p>
 
 		<h2>Bio</h2>
 		<p>Folk/indie storytelling songs with beautiful vocals, fingerpicking acoustic guitar, cello, electronica and percussion. Have been likened to Nick Drake, Sufjan Stevens &amp; Badly Drawn Boy.</p>

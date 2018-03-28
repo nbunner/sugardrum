@@ -10,7 +10,7 @@ bannerImage: banner-bw-barn-guitar-w2000.jpg
 
 <div class="col-cont text-section">
 	<h2 class="h1 col-xs-12">New album: Postcards</h2>
-	<!-- <img src="http://files.sugardrum.com/img/record-covers/postcards.jpg" /> -->
+	<!-- <img src="//files.sugardrum.com/img/record-covers/postcards.jpg" /> -->
 	
 	
 	{% for m in site.data.music %}
@@ -18,12 +18,12 @@ bannerImage: banner-bw-barn-guitar-w2000.jpg
 		<div class="ep_cont">
 			{% if m.embed-type == 'spotify' %}
 			<div class="embed-cont embed-cont--spotify">
-				<iframe src="https://embed.spotify.com/?uri=spotify%3Aalbum%3A{{ m.spotify-id }}" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+				<iframe src="//embed.spotify.com/?uri=spotify%3Aalbum%3A{{ m.spotify-id }}" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 			</div>
 			{% endif %}
 			{% if m.embed-type == 'bandcamp' %}
 			<div class="embed-cont embed-cont--bandcamp">
-				<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album={{ m.bandcamp-id }}/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=none/transparent=true/" seamless><a href="{{ m.link-bandcamp }}">{{ m.title }}</a></iframe>	
+				<iframe style="border: 0; width: 100%; height: 120px;" src="//bandcamp.com/EmbeddedPlayer/album={{ m.bandcamp-id }}/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=none/transparent=true/" seamless><a href="{{ m.link-bandcamp }}">{{ m.title }}</a></iframe>	
 			</div>	
 			{% endif %}
 			<a href="{{ m.link-bandcamp }}" class="ep-cover-link" target="_blank"><img src="{{ m.cover }}" alt="{{ m.title }}" /></a>
@@ -57,7 +57,7 @@ bannerImage: banner-bw-barn-guitar-w2000.jpg
 
 	
 	<div class="col-xs-12">		
-		<blockquote><p>&#8220;From the whispered wonder of ‘Under the Stairs’ to the finally acoustic springs of chipper sounds of album closer ‘True Nature of Cats’, Nigel manages to instil a pure, and relatively unadulterated sense of calm and joy&hellip;. It’s lead single ‘Choccy Rolls’ that shines as the standout anthem; a heartfelt account of watching a loved one lose words and memories as they succumb to dementia.&#8221; &#8211; <a href="http://www.anthemreview.net/post/142444734980/sugardrum-postcards-sugardrum-is-the-moniker-of" target="_blank">Anthem Review</a></p></blockquote>
+		<blockquote><p>&#8220;From the whispered wonder of ‘Under the Stairs’ to the finally acoustic springs of chipper sounds of album closer ‘True Nature of Cats’, Nigel manages to instil a pure, and relatively unadulterated sense of calm and joy&hellip;. It’s lead single ‘Choccy Rolls’ that shines as the standout anthem; a heartfelt account of watching a loved one lose words and memories as they succumb to dementia.&#8221; &#8211; <a href="//www.anthemreview.net/post/142444734980/sugardrum-postcards-sugardrum-is-the-moniker-of" target="_blank">Anthem Review</a></p></blockquote>
 	</div>	
 </div>
 
@@ -67,7 +67,7 @@ bannerImage: banner-bw-barn-guitar-w2000.jpg
 	<div class="col-cont">
 		<h2 class="h1 col-xs-12">Featured video</h2>
 		<div class="youtube-container home-youtube-container embed-responsive embed-responsive-16by9 embed-responsive-item" id="videoPlayer">
-			<div class="homeVideoThumbnail home-videoplayer" id="vid-jt9BeiRDwJI"><img src="http://img.youtube.com/vi/jt9BeiRDwJI/0.jpg" /></div>
+			<div class="homeVideoThumbnail home-videoplayer" id="vid-jt9BeiRDwJI"><img src="//img.youtube.com/vi/jt9BeiRDwJI/0.jpg" /></div>
 			<i class="fa fa-youtube-play homeVideoPlayButton"></i>	
 		</div>
 		<p class="col-xs-12">The Smiths - There is a light that never goes out - Acoustic Cover by Sugardrum</p>

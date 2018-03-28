@@ -18,7 +18,7 @@ topSectionBack: top-section-about
 		<p>Sugardrum's live set comprises of his own songs along with a couple of covers. He closed his final set at the 2014 <strong>Edinburgh Festival</strong> with an unplugged personal interpretation of “There is a light” by The Smiths, standing in front of the stage to a packed and enthralled audience at Tron Kirk Church on the Royal Mile.</p><p>Notable recent festival and tour performances include several performances at the 2015 &amp; 2014 Edinburgh Fringe Festivals, 2014 <strong>Glastonbury festival</strong> and a week long tour in Winter 2013 to promote the release of the “3 Penny Postcard” EP.</p>
 
 		<p>Sugardrum has also played support slots for Martha Tilston, Union Sound Set, Rachel Sermanni &amp; Carrie Tree and has helped organise numerous collaborative fundraising events together with the rest of the <a
-		title="Wupadupa music" href="http://www.wupadupa.com/" target="_new">Wupadupa collective</a>.</p>
+		title="Wupadupa music" href="//www.wupadupa.com/" target="_new">Wupadupa collective</a>.</p>
 
 		<p>Just as happy playing unplugged guerilla gigs as he is on the stage, some random places where Sugardrum has performed include: Cheddar Gorge in Somerset, England, a wooded glade lit up by fairy lights, a train travelling through India and on the top deck of a double decker bus that was doubling up as a cafe at the time, with the customers jamming along with the songs.</p>
 
@@ -30,7 +30,7 @@ topSectionBack: top-section-about
 
 		<blockquote><p><em>&#8220;F***ing Superb&#8221;</em> – Tom Robinson’s (BBC 6Music) Fresh on the net, Oct 2013</p></blockquote>
 
-		<p><img src="http://files.sugardrum.com/images/backgrounds/about-photos.jpg" alt="About Photos" width="100%" /><br /> 
-		<a href="http://www.bbc.co.uk/6musicintroducing/"><img src="http://www.bbc.co.uk/6music/img/programmes/pid/b0089jhs/6music_badge_introducing_03.png" alt="BBC Introducing with Tom Robinson on 6 music" border="0" /></a></p>
+		<p><img src="//files.sugardrum.com/images/backgrounds/about-photos.jpg" alt="About Photos" width="100%" /><br /> 
+		<a href="//www.bbc.co.uk/6musicintroducing/"><img src="//www.bbc.co.uk/6music/img/programmes/pid/b0089jhs/6music_badge_introducing_03.png" alt="BBC Introducing with Tom Robinson on 6 music" border="0" /></a></p>
 	</div>
 </div>

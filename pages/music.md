@@ -22,7 +22,7 @@ topSectionBack: top-section-music
 <div class="ep_cont ep_cont--musicpage ep_cont--{{ m.embed-type }}">	
 	{% if m.embed-type == 'spotify' %}	
 	<div class="col-xs-12 col-sm-4">
-		<iframe src="https://embed.spotify.com/?uri=spotify%3Aalbum%3A{{ m.spotify-id }}" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+		<iframe src="//embed.spotify.com/?uri=spotify%3Aalbum%3A{{ m.spotify-id }}" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 	</div>
 	<a href="{{ m.link-bandcamp }}" class="ep-cover-link" target="_blank"><img src="{{ m.cover }}" alt="{{ m.title }}" /></a>
 	{% endif %}				

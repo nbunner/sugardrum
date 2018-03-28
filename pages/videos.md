@@ -7,7 +7,7 @@ bodyClass: videos
 topSectionBack: top-section-videos
 ---
 
-<div class="embed-responsive embed-responsive-16by9 embed-responsive-item" id="videoPlayer"><iframe width="280" height="210" src="http://www.youtube.com/embed/4pM6WphmRhQ" frameborder="0" allowfullscreen></iframe> <p>Postcard<em>Official Video by N.Bunner</em></p></div>   							    
+<div class="embed-responsive embed-responsive-16by9 embed-responsive-item" id="videoPlayer"><iframe width="280" height="210" src="//www.youtube.com/embed/4pM6WphmRhQ" frameborder="0" allowfullscreen></iframe> <p>Postcard<em>Official Video by N.Bunner</em></p></div>   							    
 
 <div class="col-xs-12 col-sm-6 col-md-4">
 	<h3>Official Sugardrum videos</h3>
