@@ -16,4 +16,4 @@ meta:
 ---
 <p>My two most recent EPs, "3 Penny Postcard" and "Where Once Were Roads" have both been approved for playing on Earbits radio. Earbits is a new website set up by musicians for musicians and their listeners to make it easier for people to discover new music. Click on the link below to take a listen.</p>
 
-<p><a title="Postcard by Sugardrum on Earbits Radio" href="http://www.earbits.com/s/4vW2DB37ympU4F" target="_blank"> Listen to us on Earbits Free Online Radio</a></p>
+<p><a title="Postcard by Sugardrum on Earbits Radio" href="//www.earbits.com/s/4vW2DB37ympU4F" target="_blank"> Listen to us on Earbits Free Online Radio</a></p>

@@ -16,5 +16,5 @@ meta:
 ---
 <p>Exposed vocals recently interviewed me, asking various questions ranging from how I thought of the name Sugardrum, my songwriting inspiration, any future plans and projects and what embarrassing songs I have on my mp3 player...</p>
 
-<p><a href="http://www.connect.exposedvocals.com/member/blog_post_view.php?postId=355" title="View Sugardrum interview on Exposed Vocals">http://www.connect.exposedvocals.com/member/blog_post_view.php?postId=355</a></p>
+<p><a href="//www.connect.exposedvocals.com/member/blog_post_view.php?postId=355" title="View Sugardrum interview on Exposed Vocals">//www.connect.exposedvocals.com/member/blog_post_view.php?postId=355</a></p>
 <p>&nbsp;</p>

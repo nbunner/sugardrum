@@ -15,6 +15,6 @@ meta:
 
 ---
 <p>Yay, we're on the radio :)</p>
-<p><a title="Where Once Were Roads by Sugardrum on Soundcloud" href="http://soundcloud.com/sugardrum/where-once-were-roads?in=sugardrum/sets/where-once-were-roads" target="_blank">Where Once were Roads</a> is being played on Gary Crowley's new music show on BBC London 94.9FM tomorrow, Saturday 11th June 2011 sometime between 7-8pm.</p>
+<p><a title="Where Once Were Roads by Sugardrum on Soundcloud" href="//soundcloud.com/sugardrum/where-once-were-roads?in=sugardrum/sets/where-once-were-roads" target="_blank">Where Once were Roads</a> is being played on Gary Crowley's new music show on BBC London 94.9FM tomorrow, Saturday 11th June 2011 sometime between 7-8pm.</p>
 
-<p>If you miss the show you can catch it on the <a title="BBC London, iPlayer" href="http://www.bbc.co.uk/iplayer/radio/bbc_london" target="_blank">Listen Again</a> service upto a week afterwards.</p>
+<p>If you miss the show you can catch it on the <a title="BBC London, iPlayer" href="//www.bbc.co.uk/iplayer/radio/bbc_london" target="_blank">Listen Again</a> service upto a week afterwards.</p>

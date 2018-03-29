@@ -28,4 +28,4 @@ meta:
 11.35am - 12.05pm at Black Medicine, Nicholson Street<br />
 3pm - 3:30pm at Black Medicine, Nicholson Street</p>
 <p>The new postcards with gig details on them are ready...</p>
-<p><a href="http://files.sugardrum.com/blog/wp-content/uploads/2014/08/11214243/edinburgh-fest-postcards.jpg" class="fresco"><img class="alignleft size-thumbnail wp-image-1024" src="http://files.sugardrum.com/blog/wp-content/uploads/2014/08/11214243/edinburgh-fest-postcards-150x150.jpg" alt="Edinburgh Festival Postcards" width="150" height="150" /></a></p>
+<p><a href="//files.sugardrum.com/blog/wp-content/uploads/2014/08/11214243/edinburgh-fest-postcards.jpg" class="fresco"><img class="alignleft size-thumbnail wp-image-1024" src="//files.sugardrum.com/blog/wp-content/uploads/2014/08/11214243/edinburgh-fest-postcards-150x150.jpg" alt="Edinburgh Festival Postcards" width="150" height="150" /></a></p>

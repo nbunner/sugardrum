@@ -59,8 +59,12 @@
 
 @media only screen and (min-width: 768px) {
 
-	.ep_cont {
-		display: flex; flex-direction: row; max-width: 893px; width: 100%;
+	.ep_cont {width: 650px;}
+	.ep_cont--spotify {
+		.embed-cont {float: left; margin: 0 40px 0 30px; width: 300px;}
+	}
+	.ep_cont--bandcamp {
+		display: flex; flex-direction: row; // max-width: 893px; width: 100%;
 		.ep-cover-link {float: none;}
 		// .ep-cover-link {float: left;}
 		// float: none; max-width: 640px; overflow: hidden;
@@ -71,3 +75,10 @@
 	.music-link-cont {margin: 0;}
 	
 }
+
+// @media only screen and (min-width: 1024px) {
+// 	.ep_cont--spotify {
+// 		display: flex; flex-direction: row;
+// 		.embed-cont {float: none; margin: 0;}
+// 	}
+// }

@@ -15,7 +15,7 @@ meta:
 
 ---
 <p>just uploaded a song onto our myspace page, recorded at our recent house  gig.</p>
-<p><a href="http://www.myspace.com/sugardrum">www.myspace.com/sugardrum</a></p>
+<p><a href="//www.myspace.com/sugardrum">www.myspace.com/sugardrum</a></p>
 <p>please  feel free to listen, download and hopefully enjoy its unplugged and acoustic raw loveliness...</p>
 
 <p>more recordings, both live and studio  on their way soon</p>

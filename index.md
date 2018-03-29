@@ -15,7 +15,7 @@ bannerImage: banner-bw-barn-guitar-w2000.jpg
 	
 	{% for m in site.data.music %}
 		{% if m.featured == 1 %}			
-		<div class="ep_cont">
+		<div class="ep_cont ep_cont--homepage ep_cont--{{ m.embed-type }}">
 			{% if m.embed-type == 'spotify' %}
 			<div class="embed-cont embed-cont--spotify">
 				<iframe src="//embed.spotify.com/?uri=spotify%3Aalbum%3A{{ m.spotify-id }}" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>

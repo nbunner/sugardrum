@@ -12,7 +12,7 @@ excerpt: I meant to write a blog post a couple of months ago about taking a litt
 
 <p>I'm about to become a Dad... no hang on...</p>
 
-<p>I became a Dad to a beautiful baby girl just over 2 months ago. Life has been both wonderful and frantically busy ever since. As a result I'm going to be doing less gigs this summer. I've not contacted my usual contacts about performing at Glastonbury or Edinburgh festivals this year, but I am still playing at <a href="http://www.tribalearth.co.uk" title="Tribal Earth Fesitval">Tribal Earth festival</a> down in Sussex. It's a lovely small festy on the weekend of the 20th August that raises funds for a children's charity in Kathmandu.</p>
+<p>I became a Dad to a beautiful baby girl just over 2 months ago. Life has been both wonderful and frantically busy ever since. As a result I'm going to be doing less gigs this summer. I've not contacted my usual contacts about performing at Glastonbury or Edinburgh festivals this year, but I am still playing at <a href="//www.tribalearth.co.uk" title="Tribal Earth Fesitval">Tribal Earth festival</a> down in Sussex. It's a lovely small festy on the weekend of the 20th August that raises funds for a children's charity in Kathmandu.</p>
 
 <p>I'm playing at 5:50pm on the Saturday and might even bring the little one along on backing vocals :)</p>
 

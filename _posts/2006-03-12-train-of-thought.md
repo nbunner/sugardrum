@@ -14,7 +14,7 @@ meta:
   rp4wp_auto_linked: '1'
 
 ---
-<p>so, Boy meets a nice Girl on the train. Boy and Girl have a nice chat  about music, festivals, people getting married too young, blue's gigs  etc. Girl is into photography and would like to get involved with doing  album covers. Boy suggests Girl get's involved with the whole <a href="http://www.wupadupa.com/">wupadupa</a> thing as it would be nice to  have some non-music artists involved with that. Boy sort of arranges to  meet up with Girl sometime.</p>
+<p>so, Boy meets a nice Girl on the train. Boy and Girl have a nice chat  about music, festivals, people getting married too young, blue's gigs  etc. Girl is into photography and would like to get involved with doing  album covers. Boy suggests Girl get's involved with the whole <a href="//www.wupadupa.com/">wupadupa</a> thing as it would be nice to  have some non-music artists involved with that. Boy sort of arranges to  meet up with Girl sometime.</p>
 
 <p>Boy get's off train all happy and  glowing. Then realises that he completely forgot to get any contact  details from Girl and only gave her a couple of web addresses to check  out, this being one of them.</p>
 <p>Boy feels a bit of a plonker.</p>

@@ -16,11 +16,11 @@ meta:
   rp4wp_auto_linked: '1'
 
 ---
-I have a new remix EP available called <a href="http://shop.sugardrum.com/album/forgotten-remixed">Forgotten Remixed</a>. It features 3 remixes plus the original mix of my song Forgotten that originally appeared on my EP <a href="http://shop.sugardrum.com/album/3-penny-postcard">3 Penny Postcard</a>. The remixes were made by me and are all very different styles - including dance, trip hop and acoustic.
+I have a new remix EP available called <a href="//shop.sugardrum.com/album/forgotten-remixed">Forgotten Remixed</a>. It features 3 remixes plus the original mix of my song Forgotten that originally appeared on my EP <a href="//shop.sugardrum.com/album/3-penny-postcard">3 Penny Postcard</a>. The remixes were made by me and are all very different styles - including dance, trip hop and acoustic.
 
 <p>Download links below.</p>
 <ul>
-<li><a href="http://shop.sugardrum.com/album/forgotten-remixed">Bandcamp</a> (FREE)</li>
+<li><a href="//shop.sugardrum.com/album/forgotten-remixed">Bandcamp</a> (FREE)</li>
 <li><a href="https://itunes.apple.com/gb/album/forgotten-remixed-ep/id1019792307">iTunes</a> (£2.49)</li>
 </ul>
 <p>&nbsp;</p>

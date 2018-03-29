@@ -18,7 +18,7 @@ meta:
 
 <p>Anyway, things have started to settle down a bit so I've found some time to revisit the recordings I started all those months ago. A few of the songs are ready and eager to get out into the world, so my plan now is to group them together onto a little EP, to be released sometime early 2013.</p>
 <p>As a little taster here is one I've recently finished, Under the stairs. It features myself on Vocals, Guitar and synths, Beth on Cello and Vocals, Steve on Vocals and Matt on percussion. Matt also helped me with the production/mixing.</p>
-<p>Oh, I also took part in this years NaNoWriMo (<a href="http://www.nanowrimo.org" title="NaNoWriMo">http://www.nanowrimo.org</a>) for which I managed to write 50,000 of a novel in a month. I've still got more of it to write and have no idea when it will be ready but it was much fun and I can heartily recommend taking part if you have an idea for a story bubbling away in the depths of your imagination :)</p>
+<p>Oh, I also took part in this years NaNoWriMo (<a href="//www.nanowrimo.org" title="NaNoWriMo">//www.nanowrimo.org</a>) for which I managed to write 50,000 of a novel in a month. I've still got more of it to write and have no idea when it will be ready but it was much fun and I can heartily recommend taking part if you have an idea for a story bubbling away in the depths of your imagination :)</p>
 <p>Merry Xmas!<br />
 xx</p>
 <p><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F71323787&amp;color=74d2db&amp;auto_play=false&amp;show_artwork=true"></iframe></p>

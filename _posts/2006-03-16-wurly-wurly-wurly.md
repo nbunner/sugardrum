@@ -14,7 +14,7 @@ meta:
   rp4wp_auto_linked: '1'
 
 ---
-<p>my housemate has recently purchased an old Wurlizter electric piano.  It's very old and lovely and sounds much like the old and lovely Rhodes  piano we used on the recording of <a href="http://sugardrum.bandcamp.com/track/sleeptalk">sleep talk</a>.</p>
+<p>my housemate has recently purchased an old Wurlizter electric piano.  It's very old and lovely and sounds much like the old and lovely Rhodes  piano we used on the recording of <a href="//sugardrum.bandcamp.com/track/sleeptalk">sleep talk</a>.</p>
 <p>I like it when my housemates buy nice things as it means I get a  chance to use the nice things ;)</p>
 
 <p>It's called Wurly although he  insists it's not called Wurly and doesn't like anyone calling it Wurly  although he doesn't know what else to call it aprt from that "that old  keyboard thing that sounds like a Rohdes but isn't one".</p>

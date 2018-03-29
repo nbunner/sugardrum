@@ -17,5 +17,5 @@ meta:
 <p>We've got a lovely house gig in the E5 area of London this coming Saturday 16th April. I'll be doing a set with Danielle and Matt and possibly Storme followed by the lovely Gemma / Woodpecker Wooliams.</p>
 
 <p>All unplugged and surrounded by comfy cushions, candles, tea and cake. Yay!</p>
-<p>Check out the <a title="Wupadupa music" href="http://www.wupadupa.com" target="_blank">Wupadupa</a> website for more info.</p>
+<p>Check out the <a title="Wupadupa music" href="//www.wupadupa.com" target="_blank">Wupadupa</a> website for more info.</p>
 <p>&nbsp;</p>

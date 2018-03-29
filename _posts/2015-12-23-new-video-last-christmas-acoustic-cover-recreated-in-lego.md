@@ -10,7 +10,7 @@ tags: []
 categories:
 - videos
 ---
-I've made another new Christmas video - my <a href="http://shop.sugardrum.com/album/merry-christmas">acoustic cover</a> of the Wham! classic Last Christmas with the original video recreated as a play performed by a cast of Lego characters. 
+I've made another new Christmas video - my <a href="//shop.sugardrum.com/album/merry-christmas">acoustic cover</a> of the Wham! classic Last Christmas with the original video recreated as a play performed by a cast of Lego characters. 
 
 I borrowed a tin of Lego from my nephews and realised I didn't have enough characters to recreate the people in the original video exactly so I just made sure I had a couple of George Michael and Andrew Ridgeley look-alikes and someone to play their girlfriends and then supplemented the rest of the cast using some Lego Star wars and other random characters. 
 

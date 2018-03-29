@@ -17,7 +17,7 @@ meta:
 
 ---
 <p>Yay! Massive thanks to Mark Hellewell who recorded and recently uploaded the semble vs sugardrum gig we did as part of the wupadupa Freedom Festival for Amnesty International last October.</p>
-<p>You can find the Sugardrum videos on our <a title="sugardrum on youtube" href="http://www.youtube.com/user/sugardrum" target="_blank">youtube channel</a> and below...</p>
+<p>You can find the Sugardrum videos on our <a title="sugardrum on youtube" href="//www.youtube.com/user/sugardrum" target="_blank">youtube channel</a> and below...</p>
 
 {% youtube IWwXmsSFRHk %}
 <p>&nbsp;</p>

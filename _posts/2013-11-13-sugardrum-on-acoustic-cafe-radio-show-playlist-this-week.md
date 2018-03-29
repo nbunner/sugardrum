@@ -14,4 +14,4 @@ meta:
   rp4wp_auto_linked: '1'
 
 ---
-<p>My song Postcard is being played this week as part of the playlist for the Acoustic Cafe Radio Show. You can find out more about how to listen to the show on their <a title="Acoustic Cafe Radio Show" href="http://brianplayermusic.wordpress.com/2013/11/11/acoustic-cafe-radio-show-12th-november-to-19th-november-2013-playlist/">website</a>.</p>
+<p>My song Postcard is being played this week as part of the playlist for the Acoustic Cafe Radio Show. You can find out more about how to listen to the show on their <a title="Acoustic Cafe Radio Show" href="//brianplayermusic.wordpress.com/2013/11/11/acoustic-cafe-radio-show-12th-november-to-19th-november-2013-playlist/">website</a>.</p>

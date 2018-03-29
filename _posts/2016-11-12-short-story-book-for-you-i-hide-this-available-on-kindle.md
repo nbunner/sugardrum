@@ -17,6 +17,6 @@ excerpt: The book of short stories I wrote to accompany my album Postcards is no
 <h3>For you I hide This</h3>
 <p>A fascinating collection of twelve short stories drawn from Nigel’s experiences and imagination. A magical trail under the stairs offers a glimpse into a future self, the hidden words written on postcards on a wall, a cat who tries to break free from its natural instinct to eat everything that moves, the joy of taking the day off to play in a snow covered landscape and the heartfelt tale of living with dementia. Each story is based on a song from Nigel's debut album Postcards performing as indie folk artist Sugardrum.</p></blockquote>
 
-<p>I decided to change the name of the book from the <a href="http://shop.sugardrum.com/">limited edition print version</a>. It's now called &quot;For you I hide this&quot; after one of the lines in the song Postcard. The old title used for the print version, &quot;Postcard Stories&quot; I realised was the same as a type of story written to fit on a postcard. </p>
+<p>I decided to change the name of the book from the <a href="//shop.sugardrum.com/">limited edition print version</a>. It's now called &quot;For you I hide this&quot; after one of the lines in the song Postcard. The old title used for the print version, &quot;Postcard Stories&quot; I realised was the same as a type of story written to fit on a postcard. </p>
 
-<p>Speaking of which there are still a few copies of the print version of the book available <a href="http://shop.sugardrum.com/">free with my album</a>, but hurry, as there aren't many left.</p>
+<p>Speaking of which there are still a few copies of the print version of the book available <a href="//shop.sugardrum.com/">free with my album</a>, but hurry, as there aren't many left.</p>

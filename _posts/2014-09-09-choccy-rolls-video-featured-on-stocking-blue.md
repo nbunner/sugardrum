@@ -17,7 +17,7 @@ meta:
   rp4wp_auto_linked: '1'
 
 ---
-<p>New York web magazine Stocking Blue recently <a title="Choccy Rolls by Sugardrum on stocking blue.com" href="http://www.stockingblue.com/13210/sugardrum-choccy-rolls/">featured the video for Choccy Rolls</a> as their Friday afternoon cheerful tune. Huge thanks to them for that. Check it out on the link below...</p>
+<p>New York web magazine Stocking Blue recently <a title="Choccy Rolls by Sugardrum on stocking blue.com" href="//www.stockingblue.com/13210/sugardrum-choccy-rolls/">featured the video for Choccy Rolls</a> as their Friday afternoon cheerful tune. Huge thanks to them for that. Check it out on the link below...</p>
 
-<p><a href="http://www.stockingblue.com/13210/sugardrum-choccy-rolls/">http://www.stockingblue.com/13210/sugardrum-choccy-rolls/</a></p>
+<p><a href="//www.stockingblue.com/13210/sugardrum-choccy-rolls/">//www.stockingblue.com/13210/sugardrum-choccy-rolls/</a></p>
 <p>&nbsp;</p>

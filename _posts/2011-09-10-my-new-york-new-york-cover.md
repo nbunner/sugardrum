@@ -19,4 +19,4 @@ meta:
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/23025936&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-<p>You can still download it for free as a hidden track on <a title="An absence of friends by Sugardrum" href="http://sugardrum.bandcamp.com/album/an-absence-of-friends" target="_blank">previously mentioned EP</a>.</p>
+<p>You can still download it for free as a hidden track on <a title="An absence of friends by Sugardrum" href="//sugardrum.bandcamp.com/album/an-absence-of-friends" target="_blank">previously mentioned EP</a>.</p>

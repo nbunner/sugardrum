@@ -9,7 +9,7 @@ excerpt: A few years ago I wrote a song called motorway song. It was initially w
 ---
 A few years ago I wrote a song called motorway song. You can listen to a recording of it whilst you read the rest of this story using the player below. 
 
-<iframe class="music-player--blogpost" style="border: 0; width: 100%; height: 42px;" src="http://bandcamp.com/EmbeddedPlayer/album=1566325814/size=small/bgcol=ffffff/linkcol=0687f5/track=2067449453/transparent=true/" seamless><a href="http://shop.sugardrum.com/album/postcards">Postcards by Sugardrum</a></iframe>
+<iframe class="music-player--blogpost" style="border: 0; width: 100%; height: 42px;" src="//bandcamp.com/EmbeddedPlayer/album=1566325814/size=small/bgcol=ffffff/linkcol=0687f5/track=2067449453/transparent=true/" seamless><a href="//shop.sugardrum.com/album/postcards">Postcards by Sugardrum</a></iframe>
 
 It was initially written about a car I used to have, a Fiat Panda. It was like a tin box on wheels with just four gears so going anywhere long distance was a noisy experience. You felt like you were travelling at 110mph when in fact you were just doing 50mph. 
 

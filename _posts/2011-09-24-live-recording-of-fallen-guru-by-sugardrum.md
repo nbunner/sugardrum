@@ -18,7 +18,7 @@ meta:
 ---
 <p>Here's another live video from the little session I did at Tribal Voices at Small World Festival in May, this time Fallen Guru...</p>
 
-<div class="embed-responsive embed-responsive-16by9" id="videoPlayer"><iframe src="http://www.youtube.com/embed/orN0sNEZS48" frameborder="0" width="640" height="360"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9" id="videoPlayer"><iframe src="//www.youtube.com/embed/orN0sNEZS48" frameborder="0" width="640" height="360"></iframe></div>
 
 <p>Mark seems to have captured me in mid "Elvis pose" in the screenshot above :)</p>
 <p>&nbsp;</p>

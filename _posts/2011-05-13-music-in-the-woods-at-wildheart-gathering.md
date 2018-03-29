@@ -16,7 +16,7 @@ meta:
   rp4wp_auto_linked: '1'
 
 ---
-<p>I was lucky enough to perform at <a title="Wildheart Gathering" href="http://www.wildheartgathering.com/" target="_blank">Wildheart Gathering</a> at the beginning of this month. It's a truly beautiful festival set amongst the most amazing grounds with lots of woods and fields nearby. Whilst there I took the opportunity to go for a wander with my guitar. I nervously crossed a field full of cows, keep a wide berth from them as I made my way to the woods on the other side of the field. The cows got bored of looking at me by the time I had past them and went back to eating their breakfast. In the woods, I set up my little camera and recorded a couple of videos.</p>
+<p>I was lucky enough to perform at <a title="Wildheart Gathering" href="//www.wildheartgathering.com/" target="_blank">Wildheart Gathering</a> at the beginning of this month. It's a truly beautiful festival set amongst the most amazing grounds with lots of woods and fields nearby. Whilst there I took the opportunity to go for a wander with my guitar. I nervously crossed a field full of cows, keep a wide berth from them as I made my way to the woods on the other side of the field. The cows got bored of looking at me by the time I had past them and went back to eating their breakfast. In the woods, I set up my little camera and recorded a couple of videos.</p>
 
 <p>First, <strong>Postcard</strong>...</p>
 {% youtube UsjcyXCbB7s %}

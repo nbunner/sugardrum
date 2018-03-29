@@ -25,4 +25,4 @@ document.write(<br />
 <p><del>I'll be taking submissions for the video upto the end of February.</del> UPDATE: Still open for submissions!</p>
 <p>thank you! x</p>
 <p>Oh, and here's the song...</p>
-<p><iframe src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F32755847&amp;auto_play=false&amp;show_artwork=true&amp;color=ff7700" frameborder="no" scrolling="no" width="100%" height="166"></iframe></p>
+<p><iframe src="//w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F32755847&amp;auto_play=false&amp;show_artwork=true&amp;color=ff7700" frameborder="no" scrolling="no" width="100%" height="166"></iframe></p>

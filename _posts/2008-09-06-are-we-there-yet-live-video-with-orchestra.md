@@ -18,5 +18,5 @@ meta:
 ---
 <p>I've just uploaded a video of Are We There Yet? recorded at the wupadupa String Thing on 22nd Sep 2007.<br />
 
-<div class="embed-responsive embed-responsive-16by9" id="videoPlayer"><iframe width="280" height="210" src="http://www.youtube.com/embed/ZQD5HRoMvSw" frameborder="0" allowfullscreen></iframe></div>   							    
+<div class="embed-responsive embed-responsive-16by9" id="videoPlayer"><iframe width="280" height="210" src="//www.youtube.com/embed/ZQD5HRoMvSw" frameborder="0" allowfullscreen></iframe></div>   							    
 

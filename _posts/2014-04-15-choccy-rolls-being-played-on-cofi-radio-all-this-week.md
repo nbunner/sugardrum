@@ -16,7 +16,7 @@ meta:
 ---
 <p>Each week Cofi Radio gather together the best unsigned music and create a show which you can listen to and download. This week they're playing Choccy Rolls from the 3 Penny Postcard EP as part of their unsigned show. Pop over to their site and have a listen and check out some of the other great bands they're playing this week too.</p>
 
-<p><a title="Listen to Cofi Radio" href="http://cofiradio.co.uk/listen/">http://cofiradio.co.uk/listen/</a></p>
+<p><a title="Listen to Cofi Radio" href="//cofiradio.co.uk/listen/">//cofiradio.co.uk/listen/</a></p>
 
 <p>and on Soundcloud at...</p>
 <p><a href="https://soundcloud.com/cofiradio23/episode-78">https://soundcloud.com/cofiradio23/episode-78</a></p>

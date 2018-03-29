@@ -19,6 +19,6 @@ meta:
 <blockquote><p>Break rules. Leave the world more interesting for your being here. Make good art.</p></blockquote>
 <blockquote><p>I would do my best in future not to write books just for the money. If you didn’t get the money, then you didn’t have anything. If I did work I was proud of, and I didn’t get the money, at least I’d have the work.</p></blockquote>
 <div>
-<iframe src="http://player.vimeo.com/video/42372767?color=ffffff" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="http://vimeo.com/42372767">Neil Gaiman Addresses the University of the Arts Class of 2012</a> from <a href="http://vimeo.com/uartsphilly">The University of the Arts (Phl)</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<iframe src="//player.vimeo.com/video/42372767?color=ffffff" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="//vimeo.com/42372767">Neil Gaiman Addresses the University of the Arts Class of 2012</a> from <a href="//vimeo.com/uartsphilly">The University of the Arts (Phl)</a> on <a href="//vimeo.com">Vimeo</a>.</p>
 </div>

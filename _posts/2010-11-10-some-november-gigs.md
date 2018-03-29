@@ -16,7 +16,7 @@ meta:
 ---
 <p>We've got a few gigs coming up, sort of a mini tour and our last gigs of the year...</p>
 
-<p><strong>Sat 20th Nov</strong>: House gig along with Carrie Tree. See <a title="Wupadupa" href="http://www.wupadupa.com/" target="_blank">www.wupadupa.com</a> for more details. It starts at around 8pm, is in SW London (zone 6) and if you want to come along then you'll need to send an email to the Wupadupa crew organising it at <script type="text/javascript">// <![CDATA[<br />
+<p><strong>Sat 20th Nov</strong>: House gig along with Carrie Tree. See <a title="Wupadupa" href="//www.wupadupa.com/" target="_blank">www.wupadupa.com</a> for more details. It starts at around 8pm, is in SW London (zone 6) and if you want to come along then you'll need to send an email to the Wupadupa crew organising it at <script type="text/javascript">// <![CDATA[<br />
 document.write(<br />
 "<n uers=\"znvygb:jhcnqhcn\100tznvy\056pbz?fhowrpg=jhcnqhcn ubhfr tvt\">jhcnqhcn\100tznvy\056pbz<\057n>".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));<br />
 // ]]></script> .... or just let us know via the <a title="Contact Sugardrum" href="/contact.html">contact page.</a></p>

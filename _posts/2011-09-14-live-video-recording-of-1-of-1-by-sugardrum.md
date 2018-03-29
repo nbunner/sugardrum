@@ -18,4 +18,4 @@ meta:
 ---
 <p>Here's a video of my song, 1 of 1 that I recorded in the Tribal Voices tent at Small World Festival earlier in the year. Thanks to Mark for his camera work and for putting this online for me.</p>
 
-<div class="embed-responsive embed-responsive-16by9" id="videoPlayer"><iframe src="http://www.youtube.com/embed/aNKBGTH0Nmc" frameborder="0" width="640" height="390"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9" id="videoPlayer"><iframe src="//www.youtube.com/embed/aNKBGTH0Nmc" frameborder="0" width="640" height="390"></iframe></div>

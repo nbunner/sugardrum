@@ -19,6 +19,6 @@ meta:
 <p>A quick radio news update for you all...</p>
 <p>Here's the listen again link for the recent BBC Introducing show which featured my song Choccy Rolls. The show will be available for the rest of the week so if you missed the show take a listen while you still can.</p>
 
-<p><a href="http://www.bbc.co.uk/programmes/p015z9dq" title="BBC Introducing">http://www.bbc.co.uk/programmes/p015z9dq</a></p>
+<p><a href="//www.bbc.co.uk/programmes/p015z9dq" title="BBC Introducing">//www.bbc.co.uk/programmes/p015z9dq</a></p>
 <p>Beth and I did a live session for Kingston Green Radio on the 4th March which featured the debut of a new song just finished the day before. The whole show has been uploaded to mixcloud so click the link below to listen to it all.</p>
-<p><a href="http://www.mixcloud.com/kingstongreenradio/sugardrum-session-4-march-2013/" title="Sugardrum session for Kingston Green Radio">http://www.mixcloud.com/kingstongreenradio/sugardrum-session-4-march-2013/</a></p>
+<p><a href="//www.mixcloud.com/kingstongreenradio/sugardrum-session-4-march-2013/" title="Sugardrum session for Kingston Green Radio">//www.mixcloud.com/kingstongreenradio/sugardrum-session-4-march-2013/</a></p>

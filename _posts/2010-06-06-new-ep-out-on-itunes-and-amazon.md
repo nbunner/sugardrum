@@ -16,7 +16,7 @@ excerpt: Yay, the new sugardrum EP, Where Once Were Roads, is now available to p
 ---
 <p>Yay, the new sugardrum EP, Where Once Were Roads, is now available to purchase and download from itunes and amazon for the bargain price of around £3.</p>
 <p>Just follow one of the links below to go to either store.</p>
-<p><a title="sugardrum on itunes" href="http://itunes.apple.com/gb/album/where-once-were-roads-ep/id359765029" target="_blank">Buy now on itunes.</a> OR <a title="sugardrum on amazon" href="http://amazon.co.uk/dp/B003AXBRL0" target="_blank"> Buy now on amazon.co.uk</a></p>
+<p><a title="sugardrum on itunes" href="//itunes.apple.com/gb/album/where-once-were-roads-ep/id359765029" target="_blank">Buy now on itunes.</a> OR <a title="sugardrum on amazon" href="//amazon.co.uk/dp/B003AXBRL0" target="_blank"> Buy now on amazon.co.uk</a></p>
 <p>It has the following tracks on it...</p>
 <ol>
 <li>Bubbleclouds</li>

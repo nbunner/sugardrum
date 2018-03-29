@@ -21,13 +21,13 @@ topSectionBack: top-section-music
 {% endif %}	
 <div class="ep_cont ep_cont--musicpage ep_cont--{{ m.embed-type }}">	
 	{% if m.embed-type == 'spotify' %}	
-	<div class="col-xs-12 col-sm-4">
+	<div class="embed-cont embed-cont--spotify">
 		<iframe src="//embed.spotify.com/?uri=spotify%3Aalbum%3A{{ m.spotify-id }}" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 	</div>
 	<a href="{{ m.link-bandcamp }}" class="ep-cover-link" target="_blank"><img src="{{ m.cover }}" alt="{{ m.title }}" /></a>
 	{% endif %}				
 	{% if m.embed-type == 'bandcamp' %}	
-	<div class="embed-cont">
+	<div class="embed-cont embed-cont--bandcamp">
 		<iframe style="border: 0; width: 300px; height: 300px;" src="//bandcamp.com/EmbeddedPlayer/album={{ m.bandcamp-id }}/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="{{ m.link-bandcamp }}">{{ m.title }}</a></iframe>			
 	</div>
 	{% endif %}	

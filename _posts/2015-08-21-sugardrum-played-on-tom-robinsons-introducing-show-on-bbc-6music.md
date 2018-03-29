@@ -19,9 +19,9 @@ meta:
 
 One of the new remixes of my song Forgotten has been played a couple of times in the past week on BBC 6music. First on Tom Robinson's mixtape show and then on his Saturday night show last weekend.
 
-I had got back late on Saturday from playing a gig at Ryries Bar in Edinburgh as part of the little tour I was doing up there during the Edinburgh Fringe festival and switched on the radio to hear Tom playing my song towards the end of the show. It's one of the more dancier remixes on my new <a href="http://shop.sugardrum.com/album/forgotten-remixed">Forgotten Remixed EP</a> so it fitted in quite nicely before Armand's Dark Garage Mix of the Sneaker Pimp's Spin Spin Sugar.
+I had got back late on Saturday from playing a gig at Ryries Bar in Edinburgh as part of the little tour I was doing up there during the Edinburgh Fringe festival and switched on the radio to hear Tom playing my song towards the end of the show. It's one of the more dancier remixes on my new <a href="//shop.sugardrum.com/album/forgotten-remixed">Forgotten Remixed EP</a> so it fitted in quite nicely before Armand's Dark Garage Mix of the Sneaker Pimp's Spin Spin Sugar.
 
 <p>You can still listen to and download the show for a short while by following the link below:</p>
-<p><a href="http://www.bbc.co.uk/programmes/b0662mcz">http://www.bbc.co.uk/programmes/b0662mcz</a></p>
+<p><a href="//www.bbc.co.uk/programmes/b0662mcz">//www.bbc.co.uk/programmes/b0662mcz</a></p>
 <p>and here's  the video I made for the remix:</p>
 <p><iframe src="https://www.youtube.com/embed/DPxUNrRHNYc" width="700" height="394" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>

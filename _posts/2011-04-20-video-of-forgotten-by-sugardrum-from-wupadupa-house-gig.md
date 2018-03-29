@@ -18,4 +18,4 @@ meta:
 ---
 <p>Here's a short video from my recent house gig...</p>
 
-<div class="embed-responsive embed-responsive-16by9" id="videoPlayer"><iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/oJXy4chqSOE" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9" id="videoPlayer"><iframe title="YouTube video player" width="640" height="390" src="//www.youtube.com/embed/oJXy4chqSOE" frameborder="0" allowfullscreen></iframe></div>

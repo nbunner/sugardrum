@@ -23,4 +23,4 @@ meta:
 
 {% youtube ijo0I2xD9gM %}
 
-<p>If you like the song, please feel free to download it along with the rest of the EP "Where Once were Roads" from our  Bandcamp page: <a href="http://sugardrum.bandcamp.com/album/where-once-were-roads" title="Download Where Once Were Roads by Sugardrum on Bandcamp" target="_blank">http://sugardrum.bandcamp.com/album/where-once-were-roads</a></p>
+<p>If you like the song, please feel free to download it along with the rest of the EP "Where Once were Roads" from our  Bandcamp page: <a href="//sugardrum.bandcamp.com/album/where-once-were-roads" title="Download Where Once Were Roads by Sugardrum on Bandcamp" target="_blank">//sugardrum.bandcamp.com/album/where-once-were-roads</a></p>

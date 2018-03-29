@@ -15,5 +15,5 @@ meta:
 
 ---
 <p>Big thanks to Glastonbury Podcasting who recently played a recording of our song "Motorway Song" on the September Edition of their show.</p>
-<p>You can find out more about them and listen to the show at <a title="Glastonbury Podcasting" href="http://www.glastonburypodcasting.com/" target="_blank">www.glastonburypodcasting.com</a></p>
+<p>You can find out more about them and listen to the show at <a title="Glastonbury Podcasting" href="//www.glastonburypodcasting.com/" target="_blank">www.glastonburypodcasting.com</a></p>
 <p>x</p>

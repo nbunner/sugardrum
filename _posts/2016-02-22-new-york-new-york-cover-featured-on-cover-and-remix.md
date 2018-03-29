@@ -10,8 +10,8 @@ categories:
 - videos
 excerpt: Just before the weekend French blog Cover and Remix featured my cover of New York New York on their website. Here's a link to their website and a reminder of the video I also made for the song.
 ---
-<p>Just before the weekend French blog <a href="http://reprise-me.wix.com/cover-and-remix#!New-york-New-york/comz/551681ff0cf21933cd1bd8ce">Cover and Remix</a> featured my cover of New York New York. Here's a link to their website and a reminder of the video I also made for the song.</p>
+<p>Just before the weekend French blog <a href="//reprise-me.wix.com/cover-and-remix#!New-york-New-york/comz/551681ff0cf21933cd1bd8ce">Cover and Remix</a> featured my cover of New York New York. Here's a link to their website and a reminder of the video I also made for the song.</p>
 
-<p><a href="http://reprise-me.wix.com/cover-and-remix#!New-york-New-york/comz/551681ff0cf21933cd1bd8ce">New York New York cover by Sugardrum on Cover and Remix</a></p>
+<p><a href="//reprise-me.wix.com/cover-and-remix#!New-york-New-york/comz/551681ff0cf21933cd1bd8ce">New York New York cover by Sugardrum on Cover and Remix</a></p>
 
 {% youtube _OZa85q0Mzc %}

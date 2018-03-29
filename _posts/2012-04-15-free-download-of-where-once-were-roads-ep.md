@@ -17,6 +17,6 @@ meta:
 <p>The newly remixed and remastered version of my latest EP, "Where Once Were Roads" is now available to download for a limited time, for free. Just follow the link to the Sugardrum Bandcamp page, or click on one of the links in the player below.</p>
 
 <p>Feel free to pass it on. There will also be a CD version for sale soon.</p>
-<p><a title="Where Once Were Roads by Sugardrum on Bandcamp" href="http://sugardrum.bandcamp.com/album/where-once-were-roads" target="_blank"> http://sugardrum.bandcamp.com/album/where-once-were-roads</a></p>
+<p><a title="Where Once Were Roads by Sugardrum on Bandcamp" href="//sugardrum.bandcamp.com/album/where-once-were-roads" target="_blank"> //sugardrum.bandcamp.com/album/where-once-were-roads</a></p>
 <p>&nbsp;</p>
-<p><iframe width="300" height="410" style="position: relative; display: block; width: 300px; height: 410px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/album=2139359527/size=grande3/bgcol=F2F4FC/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://sugardrum.bandcamp.com/album/where-once-were-roads">Where Once Were Roads by Sugardrum</a></iframe></p>
+<p><iframe width="300" height="410" style="position: relative; display: block; width: 300px; height: 410px;" src="//bandcamp.com/EmbeddedPlayer/v=2/album=2139359527/size=grande3/bgcol=F2F4FC/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="//sugardrum.bandcamp.com/album/where-once-were-roads">Where Once Were Roads by Sugardrum</a></iframe></p>

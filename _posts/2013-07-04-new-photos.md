@@ -18,6 +18,6 @@ meta:
   rp4wp_auto_linked: '1'
 
 ---
-<p>Just added a couple of photos to the <a title="Sugardrum Photos" href="http://www.sugardrum.com/photos/">photos page</a>. Thanks to Shaun for the one from my gig at Bristol Folk Tales last week. It was a fun gig - I ended up playing unplugged in the car park as the venue had been double booked for the first half of the evening. The setting next to the harbour was rather lovely with the sun going down behind me as I played.</p>
+<p>Just added a couple of photos to the <a title="Sugardrum Photos" href="//www.sugardrum.com/photos/">photos page</a>. Thanks to Shaun for the one from my gig at Bristol Folk Tales last week. It was a fun gig - I ended up playing unplugged in the car park as the venue had been double booked for the first half of the evening. The setting next to the harbour was rather lovely with the sun going down behind me as I played.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

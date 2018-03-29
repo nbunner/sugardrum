@@ -17,7 +17,7 @@ meta:
   rp4wp_auto_linked: '1'
 
 ---
-<p>More videos available from the videos link and from the <a title="Sugardrum on YouTube" href="http://www.youtube.com/user/sugardrum" target="_blank">Sugardrum YouTube Channel</a>. You can also download a recording of this gig for free. Just go to the <a title="Listen to Sugardrum" href="/listen/">listen page</a> for more details.</p>
+<p>More videos available from the videos link and from the <a title="Sugardrum on YouTube" href="//www.youtube.com/user/sugardrum" target="_blank">Sugardrum YouTube Channel</a>. You can also download a recording of this gig for free. Just go to the <a title="Listen to Sugardrum" href="/listen/">listen page</a> for more details.</p>
 
-<div class="embed-responsive embed-responsive-16by9" id="videoPlayer"><iframe width="280" height="210" src="http://www.youtube.com/embed/oQ7CON1uTNY" frameborder="0" allowfullscreen></iframe></div>   							    
+<div class="embed-responsive embed-responsive-16by9" id="videoPlayer"><iframe width="280" height="210" src="//www.youtube.com/embed/oQ7CON1uTNY" frameborder="0" allowfullscreen></iframe></div>   							    
 

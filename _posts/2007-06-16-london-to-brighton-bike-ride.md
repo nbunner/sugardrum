@@ -18,4 +18,4 @@ meta:
 
 <p>It's all in aid of the British Heart Foundation.</p>
 <p>x</p>
-<p><a href="http://www.bhf.org.uk/sponsor/bunner2007">http://www.bhf.org.uk/sponsor/bunner2007</a></p>
+<p><a href="//www.bhf.org.uk/sponsor/bunner2007">//www.bhf.org.uk/sponsor/bunner2007</a></p>

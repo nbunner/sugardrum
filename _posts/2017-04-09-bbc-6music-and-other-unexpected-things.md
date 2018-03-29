@@ -18,7 +18,7 @@ Unexpected things have also been happening. Last Saturday I had a nice surprise 
 > "a gorgeous project of multi instrumentalist Nigel Bunner" 
 
 You can listen to the show for the next week on the BBC website at:
-[http://www.bbc.co.uk/programmes/b08lphyq#play](http://www.bbc.co.uk/programmes/b08lphyq#play)
+[//www.bbc.co.uk/programmes/b08lphyq#play](//www.bbc.co.uk/programmes/b08lphyq#play)
 
 
 ## Festival news

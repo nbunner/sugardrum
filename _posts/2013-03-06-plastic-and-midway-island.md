@@ -27,7 +27,7 @@ excerpt: There was a news program on the radio today about the problems with tee
 <p>I'm not having a go at the spokesperson in particular but I think it's a shame when people talk about the environment in this way, as if it is something that doesn't really concern them as the language used here implied. We are all people living in the same global environment so surely we are all "environmental people". Environmental issues therefore concern us all, not just those who care. This should be a basic principle that we all share.</p>
 <p>Let's all start trying to look at the bigger picture, choose products that use packaging that is easy to recycle and maybe we can stop some of the shocking images in the video below from occurring.</p>
 <div>
-<iframe src="http://player.vimeo.com/video/25563376?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" height="281" width="500" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="//player.vimeo.com/video/25563376?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" height="281" width="500" allowfullscreen="" frameborder="0"></iframe>
 </div>
-<p><a href="http://vimeo.com/25563376">MIDWAY : trailer : a film by Chris Jordan</a> from <a href="http://vimeo.com/midway">Midway</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<p><a href="//vimeo.com/25563376">MIDWAY : trailer : a film by Chris Jordan</a> from <a href="//vimeo.com/midway">Midway</a> on <a href="//vimeo.com">Vimeo</a>.</p>
 <p>&nbsp;</p>

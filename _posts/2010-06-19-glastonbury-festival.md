@@ -23,4 +23,4 @@ meta:
 </ul>
 <p>Although, these may change to the nature of things at a festival.</p>
 <p>I'll also have a free CD to give away with a song from each sugardrum EP, shown below being given the once over by our quality control officer :)</p>
-<p><img class="size-full wp-image-118" title="IMG_4306" src="http://files.sugardrum.com/blog/wp-content/uploads/2010/06/19115904/IMG_43061.jpg" alt="sugardrum - free promo CD" width="100%" /></p>
+<p><img class="size-full wp-image-118" title="IMG_4306" src="//files.sugardrum.com/blog/wp-content/uploads/2010/06/19115904/IMG_43061.jpg" alt="sugardrum - free promo CD" width="100%" /></p>

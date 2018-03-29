@@ -17,6 +17,6 @@ meta:
 <p>Solidsilence have a recording of "no more said" from a solo gig I did  at the Small World Festival way back in May.</p>
 <p>It was recorded  using a pair of magical in ear microphones / headphones... er let's call  them "headiclymirophonical sound wotsits", that allow the wearer to  capture the whole atmosphere of the venue whilst still enjoying the  performance going on.</p>
 
-<p>Pop along to <a href="http://www.solidsilence.com/">www.solidsilence.com</a> to have a  listen and while you're there be sure to check out some of the other  great recordings Georgina has on her site.</p>
+<p>Pop along to <a href="//www.solidsilence.com/">www.solidsilence.com</a> to have a  listen and while you're there be sure to check out some of the other  great recordings Georgina has on her site.</p>
 <p>x</p>
-<p><a href="http://www.solidsilence.com/">http://www.solidsilence.com</a></p>
+<p><a href="//www.solidsilence.com/">//www.solidsilence.com</a></p>

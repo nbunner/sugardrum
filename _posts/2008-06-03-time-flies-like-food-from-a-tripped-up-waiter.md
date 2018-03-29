@@ -29,6 +29,6 @@ meta:
 - Seven rolls  of film<br />
 - Gay Tourettes<br />
 - Coming at you like Rayban vision</p>
-<p>Mmmm,  glad we settled on <a href="http://www.myspace.com/littleraymusic">Little  Ray</a> :)</p>
+<p>Mmmm,  glad we settled on <a href="//www.myspace.com/littleraymusic">Little  Ray</a> :)</p>
 <p>sugardrum are going to be hopefully doing some new  recordings soon. The current lineup for gigs is myself, nigel on vocals  and guitar, the beautiful Danielle on backing vocals and the amazing  Matt on violin and electric guitar.</p>
 <p>x</p>

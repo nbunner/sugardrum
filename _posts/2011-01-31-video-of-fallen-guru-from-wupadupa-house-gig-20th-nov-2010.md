@@ -17,7 +17,7 @@ meta:
   rp4wp_auto_linked: '1'
 
 ---
-<p>Here's a video of Fallen Guru by Sugardrum, recorded at the unplugged Wupadupa house gig at the end of last year. This song features me, Nigel on vocals and guitar, Danielle on harmonies, Matt on glock, Storme on cajon and Fluff the Cat on Sleeping. The whole gig is available to download for free from the <a href="http://sugardrum.bandcamp.com/" target="_blank">Sugardrum Bandcamp site</a>.</p>
+<p>Here's a video of Fallen Guru by Sugardrum, recorded at the unplugged Wupadupa house gig at the end of last year. This song features me, Nigel on vocals and guitar, Danielle on harmonies, Matt on glock, Storme on cajon and Fluff the Cat on Sleeping. The whole gig is available to download for free from the <a href="//sugardrum.bandcamp.com/" target="_blank">Sugardrum Bandcamp site</a>.</p>
 
-<div class="embed-responsive embed-responsive-16by9" id="videoPlayer"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="390" src="http://www.youtube.com/embed/MJBeEdksmlM" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9" id="videoPlayer"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="390" src="//www.youtube.com/embed/MJBeEdksmlM" frameborder="0" allowfullscreen></iframe></div>
 
