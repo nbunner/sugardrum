@@ -9,7 +9,7 @@
 title: Sugardrum
 email: sugardrum@gmail.com
 description: Sugardrum create folk/indie storytelling songs with beautiful vocals, fingerpicking acoustic guitar, cello, electronica and percussion. 
-mediaurl: //files.sugardrum.com/
+mediaurl: https://files.sugardrum.com/
 paginate: 15
 paginate_path: "/blog/page:num"
 permalink: "blog/:year/:month/:day/:title/"
@@ -19,7 +19,7 @@ exclude: [vendor]
 markdown: kramdown
 exclude: [node_modules,Gruntfile.js,package.json,Gemfile,wedding,s3-error-redirects.xml,blog-images,s3_website]
 baseurl: ""
-url: //sugardrum.com
+url: https://sugardrum.com
 
 sass:
     style: compressed
@@ -28,6 +28,9 @@ sass:
 
 # baseurl: "" # the subpath of your site, e.g. /blog
 
+# collections:
+#   song-stories:
+#     output: true  
 
 # twitter_username: sugardrummusic
 # github_username:  jekyll
