@@ -5,6 +5,8 @@ permalink: /listen/
 currentPage: music
 topTitle: Music
 topSectionBack: top-section-music
+sitemap:
+ priority: 0.7
 ---
 <div class="col-xs-12 text-section">
 	<div class="text-col">
@@ -57,3 +59,15 @@ topSectionBack: top-section-music
 	</div>
 </div>
 {% endfor %}
+
+<div class="col-xs-12 text-section">
+	<div class="text-col">
+		<h2>Song stories</h2>
+		<p>Some more details about the stories behind some of the songs.</p>
+		<ul class="list-unstyled card-list">
+		{% for s in site.song-stories %}
+			<li><a href="{{ s.permalink }}"><img src="//img.youtube.com/vi/{{ s.videoUrl }}/0.jpg" /><span>{{ s.title }}</span></a></li>
+		{% endfor %}
+		</ul>
+	</div>	
+</div>

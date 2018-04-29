@@ -5,6 +5,8 @@ permalink: /videos/
 currentPage: videos
 bodyClass: videos
 topSectionBack: top-section-videos
+sitemap:
+ priority: 0.7
 ---
 
 <div class="embed-responsive embed-responsive-16by9 embed-responsive-item" id="videoPlayer"><iframe width="280" height="210" src="https://www.youtube.com/embed/4pM6WphmRhQ" frameborder="0" allowfullscreen></iframe> <p>Postcard<em>Official Video by N.Bunner</em></p></div>   							    

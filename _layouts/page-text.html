@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<article role="article">
+
+{% if page.topTitle %}
+{% else %}
+	{% if page.title %}
+	  <header class="article-header clearfix">
+	    <div class="col-xs-12"><h1 class="post-title">{{ page.title }}</h1></div>
+	  </header>
+	{% endif %}
+{% endif %}	
+
+  <section class="col-cont entry-content clearfix" itemprop="articlebody">
+  	<div class="col-xs-12 text-section">
+		<div class="text-col">
+    		{{ content }}
+    	</div>
+    </div>	
+  </section>
+
+</article>
+

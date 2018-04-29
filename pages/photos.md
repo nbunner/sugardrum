@@ -5,6 +5,8 @@ permalink: /photos/
 currentPage: photos
 topTitle: Photos
 topSectionBack: top-section-photos
+sitemap:
+ priority: 0.7
 ---
 <p class="col-xs-12">Click on a photo to make it bigger</p>
 <ul class="photos list-unstyled col-xs-12">

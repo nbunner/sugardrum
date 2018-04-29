@@ -28,9 +28,9 @@ sass:
 
 # baseurl: "" # the subpath of your site, e.g. /blog
 
-# collections:
-#   song-stories:
-#     output: true  
+collections:
+  song-stories:
+    output: true  
 
 # twitter_username: sugardrummusic
 # github_username:  jekyll

@@ -117,6 +117,11 @@ footer.main-footer {
 	p {margin-top: 1.6em; text-align: center;}
 }
 
+.card-list {
+	li {border: 1px solid $pale-border-color; float: left; min-height: 300px; margin: 8px; width: 280px;}
+	img {display: block; height: auto; width: 280px;}
+	span {display: block; font-size: 17px; padding: 10px;}
+}
 
 @media only screen and (min-width: 481px) {
 
