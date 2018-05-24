@@ -16,7 +16,7 @@ The song Poppies features people walking around a broken landscape full of empty
 
 In my mind I pictured the protagonists walking through a war torn and deserted land, passing abandoned and half destroyed houses. I went through many different ideas for the video but decided to avoid using any war footage and instead went for something that complimented the gentle mood of the music, using lots of different aerial footage with the lyrics over the top.
 
-{% youtube page.videoUrl %}
+{% youtube 4okWyNdSkc4 %}
 
 ## Download the book from the Amazon Kindle store.
 
