@@ -17,7 +17,7 @@ class="col-sm-4 gigphoto gigphoto-3"></div>
 
 <p>In November 2013 Sugardrum did a mini tour of the four corners of London to promote the release of the <a href="/listen/">3 Penny Postcard EP</a> followed by another London tour in 2015 to promote the album <a href="/listen/">Postcards</a>.</p>
 
-<p>Since becoming a Father in 2016 there has been less time for touring but more gigs are planned for 2018.</p>
+<p>Since becoming a Father in 2016 I've taken a bit of a break from performing live in order to spend more time with my children. More info in this <a href="/blog/2018/12/12/its-all-gone-quiet/">blog post</a>.</p>
 
 <p>Here are some recent gigs&hellip;</p>
 
