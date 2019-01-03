@@ -82,7 +82,7 @@ bannerImage: banner-bw-barn-guitar-w2000.jpg
 			<h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>		
 			<date>{{ post.date | date: "%b %-d, %Y" }}</date>
 		</header>
-		<div class="text-col"><p>{{ post.excerpt }}</p></div>
+		<div class="text-col"><p>{{ post.excerpt }} <a href="{{ post.url | prepend: site.baseurl }}">More&hellip;</a></p></div>
 	</article>  
 	{% endfor %}
 	<p class="col-xs-12"><a href="/blog/">More news&hellip;</a></p>
