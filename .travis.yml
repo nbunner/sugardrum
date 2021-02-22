@@ -12,6 +12,7 @@ script:
   - bundle install
   - JEKYLL_ENV=production bundle exec jekyll build  
   # - htmlproof _site
+cache: bundler  
 after_success: s3_website push
 sudo: false
 after_deploy:
