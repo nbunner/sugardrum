@@ -6,4 +6,5 @@ gem 's3_website'
 # gem 'html-proofer'
 gem 'jekyll-redirect-from'
 gem 'pygments.rb'
+gem "kramdown-parser-gfm"
 # gem 'yt', '~> 0.28.0'
