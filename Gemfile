@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 ruby RUBY_VERSION
-gem "jekyll", "3.8.5"
+gem "jekyll", "3.9.0"
 gem 'jekyll-paginate'
 gem 's3_website'
 # gem 'html-proofer'
