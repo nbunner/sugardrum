@@ -11,7 +11,7 @@ sitemap:
 
 <div class="embed-responsive embed-responsive-16by9 embed-responsive-item" id="videoPlayer"><iframe width="280" height="210" src="https://www.youtube.com/embed/4pM6WphmRhQ" frameborder="0" allowfullscreen></iframe> <p>Postcard<em>Official Video by N.Bunner</em></p></div>   							    
 
-<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="col-xs-12">
 	<h3>Official Sugardrum videos</h3>
 	<ul class="video_thumbnails list-unstyled">
 		<li class="videoThumbnail" id="vid-4pM6WphmRhQ"><span>Postcard</span><em> Official Video by N.Bunner</em></li>
@@ -22,7 +22,7 @@ sitemap:
 	</ul>	
 </div>
 
-<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="col-xs-12">
 	<h3>Cover versions</h3>
 	<ul class="video_thumbnails list-unstyled">
 		<li class="videoThumbnail" id="vid-jt9BeiRDwJI"><span>There is a light by The Smiths</span><em> Acoustic Cover</em></li>
@@ -33,7 +33,7 @@ sitemap:
 	</ul>
 </div>
 
-<div class="col-xs-12 col-sm-6 col-md-4">	
+<div class="col-xs-12">	
     	<h3>Live videos</h3>
 	<ul class="video_thumbnails list-unstyled">			
 		<li class="videoThumbnail" id="vid-52NskeeLztg"><span>Postcard</span><em>live &amp; unplugged at The Royal Oak, Edinburgh Fringe, Aug 2015</em></li>
