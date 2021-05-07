@@ -4,7 +4,7 @@
   "description": "The Sugardrum website",
   "author": "Nigel Bunner",
   "devDependencies": {
-    "grunt": "^0.4.5",
+    "grunt": "^1.3.0",
     "grunt-contrib-clean": "^0.7.0",
     "grunt-contrib-concat": "~0.3.0",
     "grunt-contrib-csslint": "~0.2.0",
